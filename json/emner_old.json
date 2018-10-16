@@ -1,0 +1,381 @@
+{
+    "fag": [
+<<<<<<< HEAD
+
+=======
+        {
+            "id": "Fysik",
+            "databaser": [
+                ["", "videnskab.dk"],
+                ["", "ing.dk"],
+                ["", "da.wikipedia.org"]
+            ],
+            "emner": [
+                "Lys",
+                "Mekanik",
+                "Kvantefysik",
+                "Energi",
+                "Elektriske og magnetiske felter"
+            ],
+            "underemner": [
+                ["Reflektion og brydning"],
+                [   
+                    "Bevægelser i én og to dimensioner og jævn cirkelbevægelse", 
+                    "Kraftbegrebet, Newtons love, tryk, gnidning og luftmodstand", 
+                    "Gravitationsloven og bevægelse om et centrallegeme", 
+                    "Mekanisk energi, gravitationsfeltet fra et centrallegeme"
+                ],
+                [
+                    "Fotoners energi, atomare systemers emission og absorption af stråling", 
+                    "Radioaktivitet, henfaldstyper, aktivitet og henfaldsloven"
+                ],
+                [
+                    ["Indre energi og energiforhold ved temperatur- og faseændringer"],
+                    ["Ækvivalensen mellem masse og energi, Q-værdi ved kernereaktioner"],
+                    ["Arbejde, energi, energiomsætning, effekt og nyttevirkning"]
+                ],
+                [
+                    ["ladede partiklers bevægelse i homogene elektriske og magnetiske felter"]
+                ]
+            ],
+            "sso_emner": [
+                [
+                    ["Fysik i regnbuen", "Lysleder"]
+                ],
+                [
+                    ["Kraftpåvirkning af køretøjer i bevægelse", "Roller coaster"],
+                    ["Raketter"],
+                    ["Tidevandskæfter: Ebbe og flod", "Tidevandskæfter: Roche grænsen"],
+                    ["Meteor- og kometnedslag"]
+                ],
+                [
+                    ["Laseren"],
+                    ["Kulstof 14-datering"]
+                ],
+                [
+                    ["Køleskabet", "Varmepumpen"],
+                    ["Solen"],
+                    ["Dampmaskinen", "Forbrændingsmotoren"]
+                ],
+                [
+                    ["Partikelaccelerator"]
+                ]
+            ]
+        },
+>>>>>>> e5fdeb742731fe6b8d1d43278673c7637ec2ba80
+        {
+            "id": "Biologi",
+            "databaser": [
+                ["Danmarkshistorien", "sundhed.dk"],
+                ["Danmarkshistorien", "Diabetes.dk"],
+                ["", "Netdoktor.dk"],
+                ["", "geografforlaget.dk"],
+                ["", "baeredygtiglandbrug.dk"],
+                ["", "videnventerfordemens.dk"],
+                ["", "alzheimer.dk"],
+                ["", "sundhedsstyrelsen.dk"],
+                ["", "videnskab.dk"],
+                ["", "biotechacademy.dk"],
+                ["", "ing.dk"],
+                ["", "altomkost.dk"],
+                ["", "foedevarestyrelsen.dk"],
+                ["", "vegetarforening.dk"]
+
+            ],
+            "emner": [
+                "Blodkredsløbet",
+                "Fordøjelsessystemet",
+                "Nervesystemet"
+            ],
+            "underemner": [
+                ["Blodpropper", "Kondition", "Rygning", "Blodtyper"],
+                ["Spiseforstyrrelser", "Diabetes", "Cancer", "Blodpropper"],
+                ["Stofmisbrug", "Alkoholmisbrug", "Stress og depression"]
+
+            ],
+            "sso_emner": [
+                [
+                    ["Kost og motion", "Medicin og operation"],
+                    ["Muskelvæv og kredsløb", "EPO og hæmotokritværdi"],
+                    ["Genetik og DNA"],
+                    ["Evolution"]
+                ],
+                [
+                    ["Belønningscenter", "Fedme"],
+                    ["Blodsukkerregulering"],
+                    ["DNA og mutationer", "Frie radikaler"],
+                    ["Fedtstoffer"]
+
+                ],
+                [
+                    ["Kokain og ecstasy", "Hash"],
+                    ["Signalstoffer", "Antagonister"],
+                    ["Serotonin", "Cortisol"]
+
+                ]
+            ]
+        }, {
+            "id": "Dansk",
+            "databaser": [
+                ["Forfatterweb", "forfatterweb.dk/"],
+                ["Litteratursiden", "www.litteratursiden.dk/"],
+                ["Danmarkshistorien", "www.danmarkshistorien.dk/"]
+            ],
+            "emner": [
+                "Litteratur",
+                "Medie",
+                "Sprog"
+            ],
+            "underemner": [
+                ["Romaner og noveller", "Digte", "Teaterstykker", "Eventyr"],
+                ["Journalistik", "Dokumentarfilm", "Kortfilm", "Spillefilm", "Reklamer", "Sociale medier"],
+                ["Retorik", "Argumentation", "Raptekster", "Diskursanalyse", "Sproghandlinger"]
+            ],
+            "sso_emner": [
+                [
+                    ["Jens Blendstrup, Gud taler ud", "Knud Romer, Den som blinker er bange for døden", "Tomas Espedal, Gå", "Morten Pape, Planen", "Hans Kirk, Fiskerne", "Jan Sonnergaard, Radiator", "Raymond Carver, Hvad vi taler om, når vi taler om kærlighed?", "Charles Bukowski, Alt forefaldne arbejde", "Helle Helle, Rester", "Simon Fruelund, Mælk"],
+                    ["Caspar Eric, Nike", "Asta Olivia Nordenhof, Det nemme og det ensomme", "Mira Gonzales, Jeg vil aldrig blive smuk nok til at gøre os smukke sammen", "Søren Ulrik Thomsen, Farvel til det blå rum", "Søren Ulrik Thomsen, City slang", "Michael Strunge, Livets hastighed"],
+                    ["Henrik Ibsen, Et dukkehjem", "August Strindberg, Frøken Julie", "Adam Oehlenscläger, Alladin"],
+                    ["H.C. Andersen, Fyrtøjet", "Brd. Grimm, Snehvide og Rosenrød"]
+                ],
+                [
+                    ["Nyhedsdækning på TV2", "New Journalism, Morten Sabroe", "Åsne Seiestad, En af os", "Hunter S. Thompson, Frygt og lede i Las Vegas", "Selvfremtilling på Instagram"],
+                    ["Christopher Guldbrandsen, Den hemmelige krig"],
+                    ["Spidse albuer, blødende knæ", "Højdeskræk", "Teenland"],
+                    ["Steven Spielberg, Schindlers liste", "Roberto Begnini, Livet er smukt", "Jason Reitman, Thank you for smoking"],
+                    ["Reklamens historiske udvikling"],
+                    ["Virksomheders branding på facebook", "Politikernes brug af facebook"]
+                ],
+                [
+                    ["Martin Luther King, I have a Dream", "Barack Obama, Yes we can", "Dronningens nytårstaler", "Var Karen Blixen racist?"],
+                    ["Etisk råds kødskat forslag", "Argumentationsanalyse af avisdebat"],
+                    ["Den gale pose, Stodder", "Malk de Kojn, Rocstar"],
+                    ["Beyoncé, If I were a man", "Nik og Jay, Boing", "Taylor Swift, You belong with me"],
+                    ["N.F.S. Grundtvig, Danmarks trøst", "St. St. Blicher, Kjær est du Fødeland", "H.C. Andersen, I Danmark er jeg født"]
+                ]
+            ]
+        }, {
+            "id": "Fysik",
+            "databaser": [
+                ["", "videnskab.dk"],
+                ["", "ing.dk"],
+                ["", "da.wikipedia.org"]
+            ],
+            "emner": [
+                "Lys",
+                "Mekanik",
+                "Kvantefysik",
+                "Energi",
+                "Elektriske og magnetiske felter"
+            ],
+            "underemner": [
+                ["Reflektion og brydning"],
+                [
+                    "Bevægelser i én og to dimensioner og jævn cirkelbevægelse",
+                    "Kraftbegrebet, Newtons love, tryk, gnidning og luftmodstand",
+                    "Gravitationsloven og bevægelse om et centrallegeme",
+                    "Mekanisk energi, gravitationsfeltet fra et centrallegeme"
+                ],
+                [
+                    "Fotoners energi, atomare systemers emission og absorption af stråling, spektre",
+                    "Radioaktivitet, henfaldstyper, aktivitet og henfaldsloven"
+                ],
+                [
+                    ["Indre energi og energiforhold ved temperatur- og faseændringer"],
+                    ["Ækvivalensen mellem masse og energi, Q-værdi ved kernereaktioner"],
+                    ["Arbejde, energi, energiomsætning, effekt og nyttevirkning"]
+                ],
+                [
+                    ["ladede partiklers bevægelse i homogene elektriske og magnetiske felter"]
+                ]
+            ],
+            "sso_emner": [
+                [
+                    ["Fysik i regnbuen", "Lysleder"]
+                ],
+                [
+                    ["Kraftpåvirkning af køretøjer i bevægelse"],
+                    ["Raketter"],
+                    ["Tidevandskafter: Ebbe og flod, Roche grænsen"],
+                    ["Meteor- og kometnedslag"]
+                ],
+                [
+                    ["Laseren"],
+                    ["Kulstof 14-datering"]
+                ],
+                [
+                    ["Køleskab og varmepumpe"],
+                    ["Solen"],
+                    ["Dampmaskinen og forbrændingsmotoren"]
+                ],
+                [
+                    ["Partikelaccelerator"]
+                ]
+            ]
+        }, {
+            "id": "Historie",
+            "databaser": [
+                ["His2rie", "his2rie.dk/"],
+                ["Historienet", "www.historienet.dk/"],
+                ["videnskab", "www.videnskab.dk/"],
+                ["Danmarkshistorien", "www.danmarkshistorien.dk/"]
+            ],
+            "emner": ["USA",
+                "Det 20. århundrede"
+            ],
+            "underemner": [
+                ["Amerikansk udenrigspolitik", "Den Amerikanske Drøm", "Sortes rettigheder"],
+                ["Mellemkrigstiden", "2.verdenskrig", "Den kolde krig", "Ungdomsoprøret"]
+            ],
+            "sso_emner": [
+                [
+                    ["Bush doktrinen", "Vietnamkrigen efter 1963", "Cubakrisen 1962"],
+                    ["Uafhægighedskrigen 1776-1783", "Indvandringen til USA i 1800-tallet"],
+                    ["Borgerrettighedsbevægelsen i 1950'erne", "Den amerikanske borgerkrig og slaveriet"]
+                ],
+                [
+                    ["Hitlers vej til magten i Tyskland", "Kanslergadeforliget, 1933"],
+                    ["Slaget om Stalingrad", "Samarbejdspolitikken, 1940-1943"],
+                    ["Truman doktrinen", "Dansk udenrigspolitik under den kolde krig"],
+                    ["Rødstrømpebevægelsen i Danmark"]
+                ]
+            ]
+        }, {
+            "id": "Kemi",
+            "databaser": [
+                ["His2rie", "google.dk/"]
+            ],
+            "emner": ["Organisk kemi", "Uorganisk kemi"],
+            "underemner": [
+                ["Medicinalkemi", "Bæredygtig kemi", "Tilsætningsstoffer", "Enzymer", "Plastik (polymerer)", "Koffein"],
+                ["Batterier", "Reaktionshastighed", "Puffer", "Miljøkemi"]
+            ],
+            "sso_emner": [
+                [
+                    ["Syntese af acetylsalicysyre", "Fremstilling af paracetamol", "Fremstilling af lidokain"],
+                    ["Fremstilling af bioethanol", "Fremstilling af biodiesel"],
+                    ["Ascorbinsyreindhold i fødevarer"],
+                    ["Undersøgelse af enzymaktivitet", "Amylase og reaktionstid"],
+                    ["Fremstilling af polystyren", "Identifikation af additionspolymerer", "Fremstilling af bioplast", "Udvinding af koffein"]
+                ],
+                [
+                    ["Hvilespændingens afhængigihed af ionkoncentration i halvcellerne"],
+                    ["Reaktion mellem persulfationer og iodidioner"],
+                    ["Undersøgelse af puffervirkning", "Fremstilling af puffer"],
+                    ["CO2 ændring og pH i vandmiljøer"]
+                ]
+            ]
+        }, {
+            "id": "Mediefag",
+            "databaser": [
+                ["Danmarkshistorien", "filmcentralen.dk"]
+            ],
+            "emner": [
+                "Spillefilm"
+
+            ],
+            "underemner": [
+                ["Auteurfilm", "Amerikanske gyserfilm", "Superheltefilm", "Film noir", "Dansk folkekomedie"]
+
+            ],
+            "sso_emner": [
+                [
+                    ["Quentin Tarantino, Reservoir Dogs", "Martin Scorsese, The departed"],
+                    ["John Carpenter, Halloween", "Wes Craven, Scream"],
+                    ["Joss Whedon, The Avengers"],
+                    ["Jack Brooks, Sherlock Holmes - Dressed to kill", "Curtis Hanson, L.A. Confidential"],
+                    ["Morten Korch, Flintesønnerne"]
+                ]
+            ]
+        }, {
+            "id": "Religion",
+            "databaser": [
+                ["Danmarkshistorien", "filmcentralen.dk"]
+            ],
+            "emner": [
+                "Helligsteder",
+                "Overgangsritualer"
+            ],
+            "underemner": [
+                ["Religiøse rum", "Byer", "Natursteder"],
+                ["Børneritualer", "Initiationsritualer", "Voksenritualer", "Dødsritualer"]
+
+            ],
+            "sso_emner": [
+                [
+                    ["Kirkers arkitektur og funktion", "Synagogers arkitektur og funktion", "Moskeens arkitektur og funktion"],
+                    ["Jerusalem", "Rom", "Mekka", "Pilgrimssteder"],
+                    ["Ganges", "Hellige kilder"]
+                ],
+                [
+                    ["Dåb", "Optagelsesritualer", "Navngivningsceremoni"],
+                    ["Konfimation og bar mitzvah", "Totemdyr", "Førstefangst ritual"],
+                    ["Konversion", "Ægteskab", "Optagelsesritualer for munke og nonner"],
+                    ["Begravelse"]
+
+                ]
+            ]
+        }, {
+            "id": "Samfundsfag",
+            "databaser": [
+                ["His2rie", "baggrund.com/"],
+                ["Historienet", "www.cevea.dk/"],
+                ["videnskab", "www.faktalink.dk/"],
+                ["videnskab", "www.cepos.dk/"],
+                ["videnskab", "www.folketinget.dk/"],
+                ["videnskab", "www.globalis.dk/"],
+                ["videnskab", "www.cevea.dk/"],
+                ["Danmarkshistorien", "www.diis.dk/"]
+            ],
+            "emner": [
+                "Økonomi",
+                "Politik",
+                "Sociologi",
+                "EU"
+            ],
+            "underemner": [
+                ["Velfærdsstaten", "Økonomisk politik", "Ulighed", "Finanskrisen", "Samfundsøkonomiske mål"],
+                ["Aktuel dansk politik", "Ideologier og partier", "Amerikansk politik", "Kommunalpolitik", "Miljøpolitik", "Medier", "Demokrati", "Menneskerettigheder", "Magt"],
+                ["Identitsdannelse", "Livsstile", "Modernitetens konsekvenser", "Social arv", "Familie og kærlighed i det senmoderne", "Køn", "Integration og kultur", "Radikalisering"],
+                ["Gældskrisen", "Integration", "EU og verden", "EU og Danmark"]
+            ],
+            "sso_emner": [
+                [
+                    ["Fra velfærdsstat til konkurrencestat", "Borgerløn", "Forskellige velfærdsmodeller", "Den danske velfærdsstat i krise", "Den 4. industrielle revolution", "Disruption og velfærdsstaten"],
+                    ["Strukturpolitik og skattereformen", "Den danske model", "Udbudsøkonomi vs. efterspørgselsøkonomi", "Flexicurity"],
+                    ["Working poor i Danmark", "Ulighed i samfundet"],
+                    ["Finanskrisen og politiske indgreb", "Økonomiske bobler"],
+                    ["Bæredygtighed og vækst", "Strukturel arbejdsløshed"]
+                ],
+                [
+                    ["Regeringsgrundlaget 2016", "Værdipolitik og integration", "Flygtninge og indvandring", "Retspolitik og bandekonflikt", "Arbejderbevægelsens udfordringer", "Social politik og hjemløshed"],
+                    ["Er ideologierne døde?", "Populisme", "Nationalisme i Europa"],
+                    ["Obamacare", "Bernie Sanders Amerikanske socialisme", "Trumps valgsejr", "Den amerikanske drøm og social ulighed", "Amerikansk udenrigspolitik", "Amerikansk våbenlovgivning"],
+                    ["Kommunalvalget 2017", "Forskellen på landspolitik og kommunalpolitik?", "Det aktive civilsamfund", "Magt i kommunerne?", "Danmarks Regioner"],
+                    ["Cop15 og Cop21", "Grøn omstilling", "Landbrugets magt", "Grøn BNP"],
+                    ["Hvad kommer efter papiraviserne?", "Debatkultur", "Privatisering af DR", "Politisk spin", "Fake news"],
+                    ["Sociale medier og demokrati", "Stemmealder", "Deltagelsesdemokrati", "Facebook og demokrati", "Det postfaktuelle demokrati", "Bobler og den demokratiske udvikling"],
+                    ["Er menskerettigheder universelle?", "Kinas brud på menneskerettighederne", "FN og menneskerettighederne", "Ytringsfrihed og Mohamed-tegningerne", "Religionsfrihed og retten til at bære slør"],
+                    ["Magtens tredeling", "Mediernes magt", "Embedsmændenes magt"]
+                ],
+                [
+                    ["Sociale medier og identitetsdannelse", "Identitesdannelse i det senmoderne samfund"],
+                    ["Vælgersegmenter", "Forbrugskultur"],
+                    ["Individualisering", "Hartmut Rosas teori", "Den flydende modernitet", "Risikosamfundets påvirkning", "Normer og traditioners forfald", "Modernitetens jernbur"],
+                    ["Misbrug", "Social arv og uddannelse", "Anerkendelse - Bourdieu", "Hjemløshed"],
+                    ["Solomødre", "Dating og parfohold", "Nye familieformer"],
+                    ["Maskulinitetsopfattelser", "4. bølge feminismen", "Prostitution", "Sugar dating", "Køn - en biologisk eller socialkonstruktion"],
+                    ["Dansk folkepartis integrationsopfattelser", "Danskhed"],
+                    ["Radikalisering af unge", "Modkulturer"]
+                ],
+                [
+                    ["Tyskland og Grækenlands gældskrise"],
+                    ["Populisme", "EU i flere hastigheder", "EUs fremtid", "Brexit"],
+                    ["EU og Nato", "EUs ydre grænser og flygtningepolitikken", "EUs handelspolitik"],
+                    ["De danske forbehold", "EU og den danske velfærdsstat", "Det indre markeds betydning for Danmark", "Social dumping", "Budgetloven"]
+                ]
+            ]
+        }
+
+    ]
+}

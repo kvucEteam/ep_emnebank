@@ -1,0 +1,63 @@
+<!doctype html>
+<html xmlns=http://www.w3.org/1999/xhtml lang=en>
+
+<head>
+    <meta name="robots" content="noindex, nofollow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Vælg et emne til dit EP</title>
+    <meta name="author" content="ato" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    
+    <link rel="stylesheet" href="../library/css/styles.css" type="text/css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="../library/css/styles.css" type="text/css">
+    <link rel="stylesheet" href="emner.css" type="text/css">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="col-xs-12 instruction_container">
+            <h1>Vælg et emne til dit eksamensprojekt</h1>
+            <div id="instruction"></div>
+            <div id="explanation"></div>
+        </div>
+        <div class="main_container col-xs-12">
+            <div class="fag_container valg_container col-xs-12">
+                <div class="fag_header h3">Vælg fagkombination</div>
+                <div class="fag_content"></div>
+            </div>
+            <div class="emne_container valg_container col-xs-12">
+                <div class="emne_header h3">Vælg emne og søg litteratur</div>
+                <div class="emne_content"></div>
+            </div>
+            <!-- <div class="u_emne_container valg_container col-xs-12">
+                <div class="u_emne_header h3">Vælg underemne </div>
+                <div class="u_emne_content"></div>
+            </div>
+            <div class="sso_emne_container valg_container col-xs-12">
+                <div class="sso_emne_header h3">Vælg SSO-emne og søg</div>
+                <div class="sso_emne_content"></div>
+            </div>
+            <div class="img_container"><img class="bullseye_pic" src="img/bullseye0.svg"></div>
+        </div> !-->
+
+        
+        <div class="visualisation_container col-xs-4" </div>
+</body>
+<script src="../library/vendor_scripts.js">
+</script>
+<script src="../library/custom_scripts.js">
+</script>
+<script type="text/javascript ">
+$(document).ready(function() {
+    getAjaxData("GET", "json/emner.json", false, "json");
+    one_line_footer();
+
+});
+</script>
+<script src="emner.js">
+</script>
+</body>
+
+</html>
