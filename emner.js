@@ -223,7 +223,7 @@ function clicked_google_search() {
 
     console.log("indeks: " + indeks);
 
-    var searchstring = $(".btn-emne").eq(indeks).html();
+    var searchstring = $(".emne_text").eq(indeks).html();
 
     var databases = "";
 
@@ -285,7 +285,7 @@ function clicked_bib_search() {
 
     console.log("indeks: " + indeks);
 
-    var searchstring = $(".btn-emne").eq(indeks).html();
+    var searchstring = $(".emne_text").eq(indeks).html();
 
     searchstring = searchstring.replace(/\?/g, '')
 
