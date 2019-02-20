@@ -56,3 +56,17 @@
     padding: 8px 5px 8px 0px;
     border-radius: 2px;
 }
+
+.microhint{
+    max-width: 50%; 
+}
+
+.mh_header{
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.emne_niveau{
+    margin-bottom: 10px;
+    font-style: italic;
+}

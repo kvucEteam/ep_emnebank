@@ -13,7 +13,7 @@ $(document).ready(function() {
     $(".btn-fag").click(clicked_fag); //
     $('#instruction').html(instruction("Få inspiration til et godt EP-emne ved at vælge en af de populære fagkombinationer og se emneforslag for hver kombination."));
     $('#explanation').html(explanation("Start med at vælge en fagkombination og få inspiration til emner til din SSO. Du kan søge på både bibliotek.dk og udvalgte databaser, når du har indsnævret dit emnevalg."));
-$(".emne_header").hide();
+    $(".emne_header").hide();
 });
 
 
@@ -61,8 +61,8 @@ function clicked_fag() {
     var HTML = "";
 
     for (var i = 0; i < jsonData.fag[indeks].emner.length; i++) {
-        HTML += "<div class='emne_buttons col-xs-12'>"; 
-        HTML += "<div class='emne_text col-xs-6'>" + jsonData.fag[indeks].emner[i] + "</div><div class='btn_container col-xs-6'><button class='btn btn-sm btn-info btn-bib'>Søg på bibliotek.dk</button><button class='btn btn-sm btn-info btn-google'>Søg i databaser</button></div></div>";
+        HTML += "<div class='emne_buttons col-xs-12'>";
+        HTML += "<div class='emne_text col-xs-6'>" + jsonData.fag[indeks].emner[i][0] + "</div><div class='btn_container col-xs-6'><button class='btn btn-sm btn-info btn-bib'>Søg på bibliotek.dk</button><button class='btn btn-sm btn-info btn-google'>Søg i databaser</button></div></div>";
     }
 
     $(".emne_content").html(HTML); // + "</div><div class='col-xs-4'></div>"); //<img class='img-responsive bullseye' src='img/bullseye1.svg'>");
@@ -73,7 +73,7 @@ function clicked_fag() {
     valgt_fag = indeks;
 
 
-     //() {
+    //() {
     $(".btn-emne").each(function() {
         var indeks = $(this).index();
         $(this).fadeOut(100).delay(indeks * 100).fadeIn(100);
@@ -83,7 +83,28 @@ function clicked_fag() {
     $(".btn-bib").click(clicked_bib_search);
 
 
-    console.log("Clicked fag")
+    //alert("Clicked fag");
+    // HOVER function: 
+    $(".emne_buttons").on('mouseover touchstart', function() {
+
+        var indeks = $(this).index(".emne_buttons");
+
+
+
+
+
+        if (jsonData.fag[valgt_fag].emner[indeks][2]) {
+
+            microhint($(this), "<h4 class='mh_header'>" + jsonData.fag[valgt_fag].emner[indeks][0] + "</h4>" + jsonData.fag[valgt_fag].emner[indeks][2]);
+        } else {
+            microhint($(this), "Der er ikke noget info");
+        }
+    });
+
+    $(".emne_content").mouseout(function() {
+        $(".microhint").hide();
+    })
+
 }
 
 
@@ -117,7 +138,7 @@ function clicked_emne() {
     $(".btn-underemne").each(function() {
         var indeks = $(this).index();
 
-        $(this).fadeOut(0).delay(indeks * 100).fadeIn(100);
+        $(this).fadeOut(0).delay(indeks * 100).fadeIn(1000);
     })
 
 
@@ -161,7 +182,7 @@ function clicked_underemne() {
     $(".btn-ssoemne").each(function() {
         var indeks = $(this).index();
 
-        $(this).fadeOut(0).delay(indeks * 100).fadeIn(100);
+        $(this).fadeOut(0).delay(indeks * 100).fadeIn(1000);
     })
 
 
@@ -176,7 +197,7 @@ function clicked_ssoemne(obj) {
     var indeks = obj.index(".btn-emne");
     console.log("Indeks: " + indeks + " Valgt fag: " + valgt_fag + "Valgt emne: " + jsonData.fag[valgt_fag].emner[indeks]); //[underemne][indeks]);
 
-$(".btn_container").eq(indeks).html("<div class='search_container'></div>"); 
+    $(".btn_container").eq(indeks).html("<div class='search_container'></div>");
 
 
 
@@ -208,7 +229,7 @@ $(".btn_container").eq(indeks).html("<div class='search_container'></div>");
     }
 
 
-    
+
     reposContent(4);
     sso_emne = indeks;
 
@@ -223,7 +244,8 @@ function clicked_google_search() {
 
     console.log("indeks: " + indeks);
 
-    var searchstring = $(".emne_text").eq(indeks).html();
+    //var searchstring = $(".emne_text").eq(indeks).html();
+    var searchstring = jsonData.fag[valgt_fag].emner[indeks][0];
 
     var databases = "";
 
@@ -239,40 +261,40 @@ function clicked_google_search() {
     searchstring = encodeURI(searchstring);
 
     setTimeout(function() {
-            window.open("http://www.google.dk/?#q=" + searchstring + " site:" + databases);
-        }, 0)
-        /*
-            var Databases = "";
-            $("input:checked").each(function(index, element) {
+        window.open("http://www.google.dk/?#q=" + searchstring + " site:" + databases);
+    }, 0)
+    /*
+        var Databases = "";
+        $("input:checked").each(function(index, element) {
 
-                //console.log();
-                Databases += ((index > 0) ? "+OR+" : "") + " site:" + $(this).attr("value");
-                //console.log("Databases: " + Databases);
-            });
-            //console.log("Search - Databases: " + Databases);
+            //console.log();
+            Databases += ((index > 0) ? "+OR+" : "") + " site:" + $(this).attr("value");
+            //console.log("Databases: " + Databases);
+        });
+        //console.log("Search - Databases: " + Databases);
 
-            var URL = 'http://www.google.dk/?#q=';
+        var URL = 'http://www.google.dk/?#q=';
 
-            if (SearchText.length > 0) {
-                URL += "+" + SearchText.replace(/\ +/g, "+");
-                $("#SearchTextParent").removeClass("ErrorColor"); // NEW
-                // $("#SearchText").attr("placeholder", SearchPlaceholderMemory);  // Inset old placeholder text again.
-                // $("#SearchText").next().fadeOut("slow");  // OLD
-            } else {
-                // $("#SearchText").next().text("Skriv nogle søgeord her!").fadeIn("slow");  // OLD
-                $("#SearchTextParent").addClass("ErrorColor"); // NEW
-                // $("#SearchText").attr("placeholder","Skriv nogle søgeord her!").fadeIn("slow");  // NEW
-                return 0;
-            }
+        if (SearchText.length > 0) {
+            URL += "+" + SearchText.replace(/\ +/g, "+");
+            $("#SearchTextParent").removeClass("ErrorColor"); // NEW
+            // $("#SearchText").attr("placeholder", SearchPlaceholderMemory);  // Inset old placeholder text again.
+            // $("#SearchText").next().fadeOut("slow");  // OLD
+        } else {
+            // $("#SearchText").next().text("Skriv nogle søgeord her!").fadeIn("slow");  // OLD
+            $("#SearchTextParent").addClass("ErrorColor"); // NEW
+            // $("#SearchText").attr("placeholder","Skriv nogle søgeord her!").fadeIn("slow");  // NEW
+            return 0;
+        }
 
-            //console.log("jsonData.DropDowns[0].obj.options[0]: " + JSON.stringify(jsonData.DropDowns[0].obj.options[0].value));
-            URL += Databases;
+        //console.log("jsonData.DropDowns[0].obj.options[0]: " + JSON.stringify(jsonData.DropDowns[0].obj.options[0].value));
+        URL += Databases;
 
-            //console.log("Search - URL: " + URL);
+        //console.log("Search - URL: " + URL);
 
-            window.open(URL, '_blank');
-        */
-        //    
+        window.open(URL, '_blank');
+    */
+    //    
 
 
 }
@@ -285,9 +307,12 @@ function clicked_bib_search() {
 
     console.log("indeks: " + indeks);
 
-    var searchstring = $(".emne_text").eq(indeks).html();
+    //var searchstring = $(".emne_text").eq(indeks).html();
 
-    searchstring = searchstring.replace(/\?/g, '')
+    var searchstring = jsonData.fag[valgt_fag].emner[indeks][1];
+    //alert(searchstring);
+
+    //searchstring = searchstring.replace(/\?/g, '')
 
 
     // microhint($(this), "Du bliver nu sendt videre til bibliotek.dk med din søgning: '" + searchstring + "'");

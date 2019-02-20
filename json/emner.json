@@ -1,57 +1,33 @@
 {
-    "fag": [{
+    "fag": [
+        {
             "id": "Biologi og geografi",
             "databaser": [
-                ["Danmarkshistorien", "sundhed.dk"],
-                ["Danmarkshistorien", "Diabetes.dk"],
-                ["", "Netdoktor.dk"],
-                ["", "geografforlaget.dk"],
-                ["", "baeredygtiglandbrug.dk"],
-                ["", "videnventerfordemens.dk"],
-                ["", "alzheimer.dk"],
-                ["", "sundhedsstyrelsen.dk"],
-                ["", "videnskab.dk"],
+                ["Videnskab.dk", "videnskab.dk"],
+                ["Aktuelnaturvidenskab.dk", "Aktuelnaturvidenskab.dk"],
+                ["DR", "dr.dk"],
+                ["Biotechacademy", "Biotechacademy.dk"],
+                ["MST", "mst.dk"],
+                ["EMU", "emu.dk"],
+                ["Etisk råd", "etiskraad.dk"],
+                ["Nanotech Academy", "http://www.nanotechacademy.dk"],
+                ["DMI", "dmi.dk"],
                 ["", "biotechacademy.dk"],
-                ["", "ing.dk"],
-                ["", "altomkost.dk"],
-                ["", "foedevarestyrelsen.dk"],
-                ["", "vegetarforening.dk"]
+                ["", "Sustainable.dk"]
 
             ],
             "emner": [
-                "Konditions træning (arb. fysiologi) med henblik på tilrettelægning af træningsprogram optil stævne og mulighed for at ændre muskelfibersammensætningen for at optimere præstation i ens specifikke sport",
-                "Fordøjelsessystemet",
-                "Nervesystemet"
-            ],
-            "underemner": [
-                ["Blodpropper", "Kondition", "Rygning", "Blodtyper"],
-                ["Spiseforstyrrelser", "Diabetes", "Cancer", "Blodpropper"],
-                ["Stofmisbrug", "Alkoholmisbrug", "Stress og depression"]
+                ["Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "<div class='emne_niveau'>Niveau: Biologi C / B og Geografi C </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"],
+                ["Tropiske koralrev", "Tropiske koraller", "<div class='emne_niveau'>Niveau: Biologi C / B og Geografi C </div>Tropiske og subtropiske lavvandskoraller er de mest truede typer koraller på verdensplan på grund af klimaforandringer. I og omkring disse koraller findes der en meget høj biodiversitet. I kraft af den faldende udbredelse af lavvandskoraller er det derfor meget interessant at fokusere på symbiotiske forhold, samt vigtighed ved bæredygtige og bevaringsværdige løsninger. Her kan du have fokus på økoturisme og udvinding af organismer til bioteknologisk forskning indenfor GMO i dag og i fremtiden. En interessant fokus kunne være på korallernes funktion i kulstofkredsløbet og betydning for klimaet. Det er også oplagt at perspektivere til et andre unikke økosystemer som fx Ikka-søjlerne i Arktis, som også er truet af klimaændringer og tab i udbredelse."],
+                ["Ultraviolet (UV-) stråling og hudkræft", "Ultraviolet stråling hudkræft", "<div class='emne_niveau'>Niveau: Biologi B og Geografi C</div>Ozonlaget er vigtigt for livet på jorden, fordi det absorberer den farlige kortbølgede ultraviolette stråling fra solen. Observationer har vist, at i perioder, hvor ozonlaget er nedbrudt, stiger den ultraviolette stråling ved jordens overflade. Det kan medføre hyppigere forekomst af mutationer i hudcellernes DNA og medvirkende til udvikling af hudkræft.  Ozonlaget i atmosfæren er blevet tyndere og tyndere på grund af menneskets forbrug af ozonlagsnedbrydende stoffer. Den mest udbredte gruppe af ozonlagsnedbrydende stoffer er CFC-gassen (freon). Et interessant fokus kunne være den arktiske befolkning da de er særligt udsatte for UV-stråling, da der ofte forekommer huller i ozonlaget der."],
+                ["Befolkningsvækst, miljøpåvirkning og bæredygtighed", "Bæredygtighed befolkning fødevarer fødevareproduktion", "<div class='emne_niveau'>Niveau: Biologi C og Geografi C</div>Det er vigtigt at tale om bæredygtighed i fremtiden på baggrund af en global befolkningsudvikling og den øget efterspørgsel på verdens naturressourcer. Vi kan forvente at en voksende middelklasse i de nuværende u-lande.  Vi kan også forvente en øget vandring fra land til by, urbanisering. Denne udvikling vil øge levestandard for en stor befolkningsgruppe som i højere grad vil have mulighed for efterspørge bl.a. animalske fødevarer. En øget levestandard vil resultere i stigende energiforbrug, som i flere tilfælde er lig med større pres på et områdets ressourcer og stigende drivhusgasudledning. Det er derfor interessant at have fokus på de ressource- og klimamæssige udfordringer vi allerede ser i dag, men også kan forvente i fremtiden. Det er interessant at kigge på ændringer i en befolkningsgruppes adfærdsmønstre og nye bæredygtige teknologier der kan bremse det stigende pres på verdens naturressourcer."],
+                ["Global opvarmning", "Global opvarmning kulstofkredsløb", "<div class='emne_niveau'>Niveau: Biologi C og Geografi C</div>Kulstofkredsløbet illustrerer udvekslingen af kulstof på Jorden, herunder dannelsen af fossile brændstoffer som olie. Menneskets indblanding i dette kredsløb sker bl.a. ved afbrænding af fossilt brændsel, hvilket leder til øget frigivelsen af kulstof i atmosfæren. Øgede mængder af kuldioxid (CO​2​) i atmosfæren medfører det fænomen man kalder drivhuseffekten, og global opvarmning til følge. Vi ser allerede konsekvenserne af global opvarmning ved is afsmeltning ved polerne, øget vandstand og et voldsommere vejr. Et interessant fokus kunne være klimatiske ændringer i store dele af Afrika som har ledt til forringelse af dyrkningsmulighederne. Disse udfordringer kan evt. løses ved hjælp af GMO-afgrøder. -Det er interessant af undersøge en række politiske tiltag og bindende aftaler hvis formål bl.a. har været at sætte grænser for industrilandenes CO​2​-udledning. Blandt disse politiske aktører finder vi FNs klimakonvention, samt EUs 2020-, 2030- og 2050-klimamål."],
+                ["Københavns Havn verdens reneste havn", "blå plan Københavns Havn", "<div class='emne_niveau'>Niveau: Biologi C / B og Geografi C</div> I København har man opnået at få den reneste havn i verden og har stor brandingværdig for turister. Havnen åbner desuden også op for bademuligheder, hvilket gør den endnu mere attraktiv for både turister og Københavnere at opholde sig i byrummet. Boligpriserne er steget i området og der bygges desuden flere og flere boliger og har betydet en øget tiltrækning af ressourcestærke tilflyttere. Tidligere har havnen været et industriområde hvor spildevand indeholdende tungmetaller er blevet udledt i og omkring havnebassinet. Jorden og sedimentet i og omkring havnen er derfor stadig forurenet med tungmetaller. Det er interessant kigge på by-udvikling og planlægning og undersøge bevæggrunde der ligger for brandingstrategier for Københavns Havn. Samtidig kan fokus være på fremtidens klima med voldsommere vejr kan resultere i at flere tungmetaller fra landjorden bliver udledt i havnebassinet, samt hvilke risici der er forbundet med bioakkumulation og biomagnifikation af tungmetaller i fødekæden."],
+                ["Naturgenopretning", "Naturgenopretning Skjern", "<div class='emne_niveau'>Niveau: Biologi C og Geografi C</div>De seneste år har der være fokus på naturgenopretning.  Den danske natur er blevet skabt siden sidste istid men er blevet påvirket af menneskelige aktiviteter så som landbrug og bebyggelse. Den menneskelige påvirkning i form af næringsstofudledning og dyrkning af monokulturer har haft store miljømæssige konsekvenser så som iltsvind og tab af biodiversitet. Et interessant fokus kunne være genopretningen af Skjern Å’s naturlige åløb. Skjern Å blev dannet under sidste istid. Det har gået fra at have et naturligt åløb siden istiden, til at blive udrette igennem en ca. 30-årig periode. Udretningen af åløb betød at landmændene bl.a. effektivt kunne dræne vand væk fra deres landarealer og ud i åløbene. Således blev landbrugsarealet øget. Skjern Å blev genetableret tilbage til det naturlige åløb i 2003 hvor det også lykkedes at redde den truet Skjern Å-laks. En interessant vinkel kunne være de gevinster et naturligt åløb har på biodiversiteten, faldende næringsstofudledningen i havet, rekreative fordele for lokalbefolkningen, samt branding strategier og turisme.<br/>Emnet kan også dreje sig om naturgenopretning af søer eller andre økosystemer. "]
 
-            ],
-            "sso_emner": [
-                [
-                    ["Kost og motion", "Medicin og operation"],
-                    ["#db_noshow#Muskelvæv og kredsløb", "EPO og hæmatokritværdi"],
-                    ["Genetik og DNA"],
-                    ["Evolution"]
-                ],
-                [
-                    ["Belønningscenter", "Fedme"],
-                    ["Blodsukkerregulering"],
-                    ["DNA og mutationer", "Frie radikaler"],
-                    ["Fedtstoffer"]
-
-                ],
-                [
-                    ["Kokain og ecstasy", "Hash"],
-                    ["Signalstoffer", "Antagonister"],
-                    ["Serotonin", "Cortisol"]
-
-                ]
-            ],
-            "ro_res": []
-        }, {
+            ]
+        },
+        {
             "id": "Biologi og Kemi",
             "databaser": [
                 ["Forfatterweb", "forfatterweb.dk/"],
@@ -60,39 +36,10 @@
                 ["Danmarkshistorien", "www.imdb.com/"]
             ],
             "emner": [
-                "Litteratur",
-                "Medie",
-                "Sprog"
-            ],
-            "underemner": [
-                ["Romaner og noveller", "Digte", "Teaterstykker", "Eventyr"],
-                ["Journalistik", "Dokumentarfilm", "Kortfilm", "Spillefilm", "Reklamer", "Sociale medier"],
-                ["Retorik", "Argumentation", "Raptekster", "Diskursanalyse", "Sproghandlinger"]
-            ],
-            "sso_emner": [
-                [
-                    ["Jens Blendstrup, Gud taler ud", "Knud Romer, Den som blinker er bange for døden", "Tomas Espedal, Gå", "Morten Pape, Planen", "Hans Kirk, Fiskerne", "Jan Sonnergaard, Radiator", "Raymond Carver, Hvad vi taler om, når vi taler om kærlighed?", "Charles Bukowski, Alt forefaldende arbejde", "Helle Helle, Rester", "Simon Fruelund, Mælk"],
-                    ["Caspar Eric, Nike", "Asta Olivia Nordenhof, Det nemme og det ensomme", "Mira Gonzales, Jeg vil aldrig blive smuk nok til at gøre os smukke sammen", "Søren Ulrik Thomsen, Farvel til det blå rum", "Søren Ulrik Thomsen, City slang", "Michael Strunge, Livets hastighed"],
-                    ["Henrik Ibsen, Et dukkehjem", "August Strindberg, Frøken Julie", "Adam Oehlenschläger, Aladdin"],
-                    ["H.C. Andersen, Fyrtøjet", "Brødrene Grimm, Snehvide og Rosenrød"]
-                ],
-                [
-                    ["Nyhedsdækning på TV2", "New Journalism, Morten Sabroe", "Åsne Seierstad, En af os", "Hunter S. Thompson, Frygt og lede i Las Vegas", "Selvfremstilling på Instagram"],
-                    ["Christoffer Guldbrandsen, Den hemmelige krig"],
-                    ["Spidse albuer, blødende knæ", "Højdeskræk", "#dbNoshow#Teenland"],
-                    ["Steven Spielberg, Schindlers liste", "Roberto Benigni, Livet er smukt", "Jason Reitman, Thank you for smoking"],
-                    ["Reklamens historiske udvikling"],
-                    ["#db_noshow#Virksomheders branding på facebook", "Politikernes brug af facebook"]
-                ],
-                [
-                    ["Martin Luther King, I have a Dream", "Barack Obama, Yes we can", "Dronningens nytårstaler", "Var Karen Blixen racist?"],
-                    ["Etisk råds kødafgift forslag", "#db_noshow#Argumentationsanalyse af avisdebat"],
-                    ["Den gale pose, Stodder", "Malk de Koijn, Rocstar"],
-                    ["Beyoncé, If I were a boy", "Nik og Jay, Boing", "Taylor Swift, You belong with me"],
-                    ["N.F.S. Grundtvig, Danmarks trøst", "St. St. Blicher, Kjær est du Fødeland", "H.C. Andersen, I Danmark er jeg født"]
-                ]
+                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
             ]
-        }, {
+        },
+        {
             "id": "Historie og Samfundsfag",
             "databaser": [
                 ["His2rie", "sparknotes.com/"],
@@ -111,89 +58,38 @@
                 ["Danmarkshistorien", "imdb.com"]
 
             ],
-            "emner": ["Litteratur analyse og fortolkning", "Retorisk analyse og sproglig analyse af taler og artikler", "Mediemæssig analyse"],
-            "underemner": [
-                ["USA", "UK/Storbritannien", "Det Britiske Imperium", " Andre engelsktalende lande ", "Forfattere", " Dystopi", "Horror", "Kvindekamp"],
-                ["Politiske taler"],
-                ["Film"]
-            ],
-            "sso_emner": [
-                [
-                    ["Scott Fitzgerald, The Great Gatsby", "Charles Frazier, Cold Mountain", "Harper Lee, To Kill a Mockingbird", "Hip Hop culture", "Kathryn Stockett, The Help"],
-                    ["Charles Dickens, David Copperfield", "The Beatles tekster", "Oscar Wilde, The Importance of Being Earnest", "Pat Barker Regeneration", "Jojo Moyes, Me Before You", "Det engelske sprogs historie"],
-                    ["E.M. Forster, A Passage to India", "Patricia Grace, A Way Of Talking", "Alan Duff, 'Growing up Half Caste"],
-                    ["J.M. Coetzee, Disgrace", "Alan Paton, Cry, the Beloved Country", "Chimamanda Ngozi Adichie, Americanah"],
-                    ["Shakespeare, Macbeth", "Sir Arthur Conan Doyle, Sherlock Holmes: The Hound of the Baskervilles", "Jane Austen, Sense and Sensibility", "Oscar Wilde, The Picture of Dorian Gray", "Ernest Hemingway, The Nick Adams stories", "Brett Easton Ellis, American Psycho", "Robert Louis Stevenson, Dr. Jekyll and Mr. Hyde"],
-                    ["George Orwell, 1984", "Ray Bradbury,  Fahrenheit 451"],
-                    ["Mary Shelley, Frankenstein"],
-                    ["Sylvia Plath, The Bell Jar", "Sue Monk Kidd, The Secret Life of Bees", "Alice Walker, The Color Purple"]
-                ],
-                [
-                    ["Barack Obama,  Inauguration speech", "#db_noshow#Hillary Clinton, Beijing Speech", "Abraham Lincoln, Gettysburg Address", "George Bush, The War on Terror"]
-                ],
-                [
-                    ["Roland Emmerich, The Patriot", "Steven Spielberg, Seven", "Alan Parker, Mississippi Burning", "Denis Villeneuve, Blade Runner 2049"]
-                ]
+            "emner": [
+                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
             ]
-        }, {
+
+        },
+        {
+
             "id": "Historie og Religion",
             "databaser": [
                 ["", "videnskab.dk"],
-                ["", "ing.dk"],
+                ["", "http://www.his2rie.dk/"],
+                ["", "https://historienet.dk/"],
+                ["Danmarkshistorien", "religion.dk"],
+                ["Danmarkshistorien", "emu.dk"],
+                ["Danmarkshistorien", "http://www.folkekirken.dk/"],
+                ["Danmarkshistorien", "worldreligiondatabase.org/"],
                 ["", "da.wikipedia.org"]
             ],
             "emner": [
-                "Sagen mod Galilei: katolsk teologi og verdenssyn i renæssancen",
-                "Mekanik",
-                "Kvantefysik",
-                "Energi",
-                "Elektriske og magnetiske felter"
-            ],
-            "underemner": [
-                ["Reflektion og brydning"],
-                [
-                    "Bevægelser i én og to dimensioner og jævn cirkelbevægelse",
-                    "Kraftbegrebet, Newtons love, tryk, gnidning og luftmodstand",
-                    "Gravitationsloven og bevægelse om et centrallegeme",
-                    "Mekanisk energi, gravitationsfeltet fra et centrallegeme"
-                ],
-                [
-                    "Fotoners energi, atomare systemers emission og absorption af stråling",
-                    "Radioaktivitet, henfaldstyper, aktivitet og henfaldsloven"
-                ],
-                [
-                    ["Indre energi og energiforhold ved temperatur- og faseændringer"],
-                    ["Ækvivalensen mellem masse og energi, Q-værdi ved kernereaktioner"],
-                    ["Arbejde, energi, energiomsætning, effekt og nyttevirkning"]
-                ],
-                [
-                    ["Ladede partiklers bevægelse i homogene elektriske og magnetiske felter"]
-                ]
-            ],
-            "sso_emner": [
-                [
-                    ["Fysik i regnbuen", "Lysleder"]
-                ],
-                [
-                    ["#db_noshow#Kraftpåvirkning af køretøjer i bevægelse", "Roller coaster"],
-                    ["Raketter"],
-                    ["Tidevandskræfter, Ebbe og flod", "Tidevandskræfter, Roche grænsen"],
-                    ["Meteor- og kometnedslag"]
-                ],
-                [
-                    ["Laseren"],
-                    ["Kulstof 14-datering"]
-                ],
-                [
-                    ["Køleskabet", "Varmepumpen"],
-                    ["Solen"],
-                    ["Dampmaskinen", "Forbrændingsmotoren"]
-                ],
-                [
-                    ["Partikelaccelerator"]
-                ]
+                ["Sagen mod Galilei: katolsk teologi og verdenssyn i renæssancen", "Galilei renæssance", "Man siger at der i renæssancen var en naturvidenskabelig revolution. Det betød først og fremmest at kirkens monopol på viden blandt meget andet blev udfordret af en ny intellektuel elites opfattelse af Jorden som en del af et solsystem. Galileo Galilei præsenterede sig som en blandt flere i tiden, der offentligt fik bragt sig i intellektuel uføre med kirken, ved at udgive bøger og holde foredrag, i Siena og Firenze, om nye perspektiver på astronomien, som ikke indbefattede hverken Gud eller Bibelen."],
+                ["Zionismen og skabelsen af staten Israel 1896-1948 ", "zionisme israel 1948", "Zionismen er betegnelsen for en jødisk nationalistisk bevægelse fra slutningen af 1890’erne, der hævder en historisk ret til det palæstinensiske område. Den 14. Maj 1948 blev staten Israel proklameret i Tel Aviv. Saten var officielt sekulær, men byggede grundlæggende på en zionistisk ide. Proklamationen udløste samtidig uafhængighedskrigen mellem Israel og Jordan, Egypten, Syrien, Libanon og Irak. Israel fik tilkæmpet sig store landområder, foruden det de havde fået tildelt i 1948."],
+                ["Luthers to-regimentelære og statskirken i Danmark 1536 og frem", "reformationen i danmark luther ", "Christian den 3.’s oprettelse af den lutherske statskirke i Danmark i 1536-37 brød med århundreders katolsk dominans i Danmark. Luther havde i sin to-regimentelære givet al magt på Jorden til staten – adskilt fra denne var den åndelige magt – Guds magt. Kirken, i protestantisk forstand, havde ikke længere nogen officiel magt på Jorden. Staten, eller kongen bestemte også over den fysiske kirke. Kirkens magt bestod med Luther i en uformel magt i form af bønner, ord og prædikener."],
+                ["Maren splid sagen - Trolddomsforfølgelse i 1500- og 1600-tallets Vestjylland", "Maren splid", "Specielt under kong Christian den 4.’s regering steg antallet af hekseafbrændinger i Danmark. Der blev indført en streng lovgivning der forbød al virke, der ikke kunne rummes af kirkens og kongens protestantiske forordninger. Sagen om den påståede heks Maren Splid er sjældent godt belyst og viser hvordan magteliten i Danmark dels anklagede, førte retssag og eksekverede dommen for trolddom mod en kvinde i Ribe den 10. november 1641."],
+                ["Jihad og Islamisk stats ambitioner om at genoprette kalifatet ", "islamisk stat islamisme", "Islamisk stat voksede ud af sunnimuslimske oprørsgrupper i forbindelse med invasionen af Irak i 2003. Organisationen repræsenterer en særlig form for militant fundamentalistisk islamisme. Deres fortolkning af begrebet Jihad som en forsvarskrig mod amerikansk imperialisme og vestlig sekularisme er blevet særligt udtalt i forbindelse med det endelige mål op genoprettelsen af kalifatet i Mellemøsten. Terrorgrupper der svor Islamisk stat troskab fik, ved siden af mere konventionelle militære erobringer, i særligt Irak og Syrien, en stor rolle for organisationen."],
+                ["Gandhis brug af Bhagvada Gita og hindusime i oprøret mod kolonimagten Storbritannien ", "frihedskamp gandhi", "Da Mahatma Gandhi rejste tilbage til Indien i 1919 efter at have kæmpet for indernes rettigheder i Sydafrika, startede han en ulydighedskampagne og boykot mod kolonimagten England. Målet for Gandhi og hans bevægelse var selvstyre, hans midler var en ikke voldelig passiv modstand. Gandhi var hinduist og politiker. Hans filosofi var stærkt inspireret af det indiske hovedværk Bhagavad Gita, som er at finde i den store tekstsamling Mahabharata."],
+                ["Religiøse og magtpolitiske årsager til korstoget 1095", "Korstog 1095", "De langvarige korstog i det 11. og 13. århundrede blev indledt med Pave Urban 2.’s korstogstale i Clermonte. Her bød han Vesteuropas fyrstehuse til krig mod den islamiske ekspansion i Mellemøsten og ikke mindst Jerusalem. Korstogene blev legitimeret teologisk, men frem for alt en magtpolitisk handling, der skulle sikre at de islamiske erobrere blev stoppe og slået tilbage."]
+
+
+
             ]
-        }, {
+        },
+        {
             "id": "Samfundsfag og Psykologi",
             "databaser": [
                 ["His2rie", "his2rie.dk/"],
@@ -201,56 +97,11 @@
                 ["videnskab", "www.videnskab.dk/"],
                 ["Danmarkshistorien", "www.danmarkshistorien.dk/"]
             ],
-            "emner": ["USA",
-                "Det 20. århundrede", "Vikingetid til Middelalder", "Kolonialisme og imperialisme", "Antikken", "Mellemøsten", "Danmarks historie"
-            ],
-            "underemner": [
-                ["Amerikansk udenrigspolitik", "Den Amerikanske Drøm", "Sortes rettigheder"],
-                ["Mellemkrigstiden", "2.verdenskrig", "Den kolde krig", "Ungdomsoprøret"],
-                ["År 600-800", "År 900-1100", "År 1200-1300", "År 1400-1500"],
-                ["Opdagelserne", "Højimperialismen"],
-                ["Romerriget", "Det antikke Grækenland"],
-                ["Israel / Palæstina konflikten", "Iran", "Golfkrigene"],
-                ["Demokratiets indførsel", "Besættelsestiden", "Danmark som kolonimagt"]
-            ],
-            "sso_emner": [
-                [
-                    ["Bush doktrinen", "Vietnamkrigen efter 1963", "Cubakrisen 1962"],
-                    ["Uafhængighedskrigen 1776", "#db_noshow#Indvandringen til USA i 1800-tallet"],
-                    ["Borgerrettighedsbevægelsen i 1950'erne", "Den amerikanske borgerkrig og slaveriet"]
-                ],
-                [
-                    ["Hitlers vej til magten i Tyskland", "Kanslergadeforliget, 1933"],
-                    ["Slaget om Stalingrad", "Samarbejdspolitikken, 1940-1943"],
-                    ["Truman doktrinen", "Dansk udenrigspolitik under den kolde krig"],
-                    ["Rødstrømpebevægelsen i Danmark"]
-                ],
-                [
-                    ["Ansgar og Willibrord", "Lindisfarne", "J.J.A. Worsaa"],
-                    ["Trosskiftet i Danmark", "Sven Estridsen", "Det store skisma", "Jellingdynastiet"],
-                    ["Det feudale system", "Dagligliv i middelalderen", "Magna carta", "Kirken i middelalderen"],
-                    ["Pesten", "Firenze", "Reformationen", "Naturvidenskab"]
-                ],
-                [
-                    ["Christoffer Columbus", "Den spanske erobring af Syd- og mellemamerika", "Aztekerne og spanierne"],
-                    ["Kapløbet om Afrika", "#db_noshow#Imperialismens menneskesyn", "Kong Leopolds Congo koloni"]
-                ],
-                [
-                    ["Slaveri i Romerriget", "#db_noshow#Julius Cæsar og republikkens undergang", "Romerrigets fald"],
-                    ["Det spartanske samfund", "Demokrati i Athen", "Den peloponnesiske krig"]
-                ],
-                [
-                    ["Zionisme og staten Israel", "Seksdagskrigen", "Staten Israels oprettelse"],
-                    ["#db_noshow#Irans udvikling efter 1945", "Den islamiske revolution 1979"],
-                    ["USAs rolle i Golfkrigen", "Irakkrigen"]
-                ],
-                [
-                    ["#db_noshow#De national-liberales rolle i demokratiets indførsel", "Danmarks grundlov", "Provisorietiden"],
-                    ["Danskere i tysk krigstjeneste", "Retsopgøret efter besættelsen", "Den danske modstandsbevægelse"],
-                    ["Den florissante handel", "Slaveri på de vestindiske øer", "Danmark og trekantshandelen"]
-                ]
+            "emner": [
+                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
             ]
-        }, {
+        },
+        {
             "id": "Samfundsfag og Engelsk",
             "databaser": [
                 ["", "videnskab.dk"],
@@ -258,27 +109,39 @@
                 ["", "da.wikipedia.org"],
                 ["", "kemienidinhverdag.dk"]
             ],
-            "emner": ["Organisk kemi", "Uorganisk kemi"],
-            "underemner": [
-                ["Medicinalkemi", "Bæredygtig kemi", "Tilsætningsstoffer", "Enzymer", "Plastik (polymerer)", "Koffein"],
-                ["Buffer", "Miljøkemi"]
-            ],
-            "sso_emner": [
-                [
-                    ["#db_noshow#Syntese af acetylsalicylsyre", "#db_noshow#Fremstilling af paracetamol", "#db_noshow#Fremstilling af lidokain"],
-                    ["Fremstilling af bioethanol", "Fremstilling af biodiesel"],
-                    ["#db_noshow#Ascorbinsyreindhold i fødevarer"],
-                    ["Undersøgelse af enzymaktivitet", "Amylase og reaktionstid"],
-                    ["Fremstilling af polystyren", "#db_noshow#Identifikation af additionspolymerer", "#db_noshow#Fremstilling af bioplast", "#db_noshow#Udvinding af koffein"]
-                ],
-                [
-
-                    ["#db_noshow#Undersøgelse af buffervirkning", "#db_noshow#Fremstilling af buffer"],
-                    ["#db_noshow#CO2 ændring og pH i vandmiljøer"]
-                ]
+            "emner": [
+                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
             ]
-        }, {
+        },
+        {
             "id": "Samfundsfag og Dansk",
+            "databaser": [
+                ["Kristeligt dagblad", "https://www.kristeligt-dagblad.dk/"],
+                ["Danmarkshistorien", "jp.dk"],
+                ["Danmarkshistorien", "blogit.itu.dk"],
+                ["Danmarkshistorien", "dst.dk"],
+                ["Danmarkshistorien", "dr.dk"],
+                ["Danmarkshistorien", "videnskab.dk"],
+                ["Danmarkshistorien", "altinget.dk"],
+                ["Danmarkshistorien", "socialdemokratiet.dk"],
+                ["Danmarkshistorien", "pure.sfi.dk"],
+                ["Danmarkshistorien", "kvinfo.dk"],
+                ["Danmarkshistorien", "danmarkshistorien.dk"],
+                ["Danmarkshistorien", "dansketaler.dk"],
+                ["Danmarkshistorien", "information.dk"]
+            ],
+            "emner": [
+                ["Demokrati og politisk kommunikation i sociale medier", "sociale og medier politik kommunikation", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Gennem de seneste 10 år er anvendelsen af sociale medier i den politiske kommunikation voldsomt forøget. For det første anvender politikerne sociale medier som f.eks. facebook og twitter til at kommunikere deres politiske budskaber. For det andet søger stadig flere borgere viden om politik på de sociale medier. Demokrati er karakteriseret ved at borgerne på et oplyst grundlag træffer valg mellem forskellige partier. Men kan man stole på den information, man får på de sociale medier? Og hvis den information, der ligger på de sociale medier ikke er troværdig, hvilke konsekvenser har det så for demokratiet?"],
+                ["Kvinder fra ikke-vestlige lande i Danmark", "Kvinder fra ikke-vestlige lande i Danmark", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Ser man på statistikkerne, kan man aflæse, at for nogle indvandrergrupper fra ikke-vestlige lande former livet sig markant anderledes end for deres danske medsøstre. For eksempel var 74% af kvinder med dansk oprindelse mellem 16 og 64 år i beskæftigelse i 2016, mens det kun gjaldt for 46% af kvinderne fra ikke-vestlige lande. Er der andre parametre, hvor kvinder fra ikke-vestlige lande adskiller sig fra danske kvinder? Hvad er årsagerne? Er der forskelle mellem de forskellige indvandrergrupper? Er der forandringer på vej? <br/>Du skal være opmærksom på, at når du anvender skønlitterært materiale i dansk, kan dit skønlitterære materiale ikke anvendes som empiri for samfundsfag. Dit skønlitterære materiale kan anvendes perspektiverende i forhold til din samfundsfaglige undersøgelse. Desuden kan dit skønlitterære materiale anvendes til en refleksion over, hvad forskellige materialetyper kan bidrage med i din undersøgelse."],
+                ["Den socialdemokratiske velfærdsmodel", "velfærd socialdemokratiet", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Den socialdemokratiske velfærdsmodel har op gennem det tyvende århundrede i høj grad været toneangivende for indretningen af det danske samfund. Hvordan betragter hovedarkitekterne bag den socialdemokratiske velfærdsmodel, Socialdemokratiet, i dag velfærdsstaten? Og hvilke udfordringer står den socialdemokratiske velfærdsmodel overfor?"],
+                ["Sammenhængen mellem litteraturen og det omgivende samfund", "Litteratur samfund", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Samfundet har ændret sig fra det traditionelle samfund før industrialiseringen til det sen-moderne samfund i dag. Forskellige sociologer, f.eks. Anthony Giddens og Ulrich Beck, har beskæftiget sig med disse ændringer. Samtidig har litteraturen forandret sig fra slutningen af 1800-tallet til i dag. Er der en sammenhæng mellem det samfund, der eksisterer og den litteratur, der skrives? "],
+                ["Har danske kvinder opnået ligestilling?", "Kvinder ligestilling danmark", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Det danske samfund og vilkårene for danske kvinder har ændret sig markant fra slutningen af 1800-tallet til i dag. Samtidig har kvindernes vilkår ændret sig. I 1915 fik kvinderne stemmeret til folketinget, i 1966 blev p-pillen frigivet, og i 1973 kom den fri abort. I 1960erne og 70erne valfartede kvinderne desuden ind på arbejdsmarkedet. Men er disse objektive ændringer så også ensbetydende med at kvinderne har opnået reel ligestilling i samfundet?"]
+                
+
+            ]
+        },
+        {
+            "id": "Funky fagkombi",
             "databaser": [
                 ["Danmarkshistorien", "uvmat.dk/"],
                 ["Danmarkshistorien", "webmatematik.dk"],
@@ -286,39 +149,7 @@
                 ["Danmarkshistorien", "frividen.dk"]
             ],
             "emner": [
-                "Funktioner", "Geometri", "Talteori", "Algebra"
-
-            ],
-            "underemner": [
-                ["Differentialregning", "Differentialligninger", "Økonomi", "Komplekse funktioner", "Integralregning"],
-                ["Vektorer", "Det gyldne snit", "Keglesnit", "3D Grafik", "Matematikhistorie"],
-                ["Talrækker", "Komplekse tal", "Matematikhistorie"],
-                ["Ligninger"]
-
-            ],
-            "sso_emner": [
-                [
-                    ["Funktioner af to variabler", "#db_noshow#Differentialregningens historiske udvikling"],
-                    ["Første ordens differentialligninger", "Anden ordens differentialligninger"],
-                    ["Omkostningsoptimering"],
-                    ["Komplekse tal og komplekse funktioner"],
-                    ["Omdrejningslegemer"]
-                ],
-                [
-                    ["Sfærisk geometri", "Rumgeometri"],
-                    ["Konstruktion af det gyldne snit", "Det gyldne snit i kunst og arkitektur"],
-                    ["#db_noshow#Keglesnit: Historisk udvikling", "#db_noshow#Egenskaber for ellipse, hyperbel og parabel"],
-                    ["Perspektivtegning"],
-                    ["Græsk matematik"]
-                ],
-                [
-                    ["#db_noshow#Det gyldne snit og Fibboncci Tal", "Uendelige rækker"],
-                    ["#db_noshow#Komplekse tal og andengradsligningen", "Komplekse tal og komplekse funktioner"],
-                    ["Tallet pi"]
-                ],
-                [
-                    ["#db_noshow#Tredjegradsligninger", "Lineær algebra"]
-                ]
+                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
             ]
         }
 
