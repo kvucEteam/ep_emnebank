@@ -141,15 +141,30 @@
             ]
         },
         {
-            "id": "Funky fagkombi",
+            "id": "Biologi og religion",
             "databaser": [
-                ["Danmarkshistorien", "uvmat.dk/"],
-                ["Danmarkshistorien", "webmatematik.dk"],
-                ["Danmarkshistorien", "mat1.dk/"],
-                ["Danmarkshistorien", "frividen.dk"]
+                ["", "videnskab.dk"],
+                ["", "http://www.his2rie.dk/"],
+                ["", "https://historienet.dk/"],
+                ["Danmarkshistorien", "religion.dk"],
+                ["Danmarkshistorien", "emu.dk"],
+                ["Danmarkshistorien", "http://www.folkekirken.dk/"],
+                ["Danmarkshistorien", "worldreligiondatabase.org/"],
+                ["", "da.wikipedia.org"],
+                ["Videnskab.dk", "videnskab.dk"],
+                ["Aktuelnaturvidenskab.dk", "Aktuelnaturvidenskab.dk"],
+                ["DR", "dr.dk"],
+                ["Biotechacademy", "Biotechacademy.dk"],
+                ["MST", "mst.dk"],
+                ["EMU", "emu.dk"],
+                ["Etisk råd", "etiskraad.dk"],
+                ["Nanotech Academy", "http://www.nanotechacademy.dk"],
+                ["DMI", "dmi.dk"],
+                ["", "biotechacademy.dk"],
+                ["", "Sustainable.dk"]
             ],
             "emner": [
-                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
+                ["Etik: Abort i forbindelse med detektering af Downs", "Abort kristendom", "<div class='emne_niveau'>Niveau: Biologi og Religion C / B </div>I Danmark er andelen af børn født med kromosomtalssygdommen Trisomi 21 (Downs Syndrom) faldet på trods af stigende alder for fødende kvinder (1978-2015, Danmarks statistik). Trisomi 21 bliver ofte detekteret under den første ultralydsscanning hos en gravid kvinde. Den første ultralydsscanning ligger inden for abortgrænsen i Danmark. I forbindelse med et evt. valg om abort rejser der sig en række etiske dilemmaer: hvornår kan et foster defineres som et menneske? Hvorfor legitimerer Trisomi 21 abort? Kan det diskuteres hvorvidt abort skal være en ret eller ej? Som udgangspunkt her kristendommen og biologien forskellige perspektiver på hvad der er etisk og uetisk, bl.a. fordi de to perspektiver som fagene repræsenterer, ikke er enige om hvad liv er og hvad et menneske er."]
             ]
         }
 
