@@ -92,13 +92,21 @@
         {
             "id": "Samfundsfag og Psykologi",
             "databaser": [
-                ["His2rie", "his2rie.dk/"],
-                ["Historienet", "www.historienet.dk/"],
-                ["videnskab", "www.videnskab.dk/"],
-                ["Danmarkshistorien", "www.danmarkshistorien.dk/"]
+                ["", "folkeskolen.dk"],
+                ["", "ft.dk"],
+                ["", "videnskab.dk"],
+                ["Alt om psykologi", "altompsykologi.dk"],
+                ["Danmarks statistik", "dst.dk"]
             ],
             "emner": [
-                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
+                ["Bandekriminalitet i Danmark", "bandekriminalitet og psykologi", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten.  I psykologi kunne man kigge på individet i gruppen (socialpsykologi), omsorg, tilknytning (psykoanalyse), valg (eksistenspsykologi), omgivelsernes betydning (adfærdspsykologi) og tankemønstre (kognitiv psykologi). I samfundsfag kunne man kigge på lovgivning om kriminalitet, domstole, typer af kriminalitet, ideologier, ulighed og politiske holdninger til straf og kriminalitet (værdipolitik). Det er også godt i samfundsfag at have noget statistisk talmateriale: Hvem sidder i fængsler? Hvilke typer af forbryder er de dømt for? Er det flest unge? Er det mange uden uddannelse? Er det mange med anden etnisk baggrund end dansk?"],
+                ["Sociale medier og ungdomskulturer", "Sociale medier og unge", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne man gå tæt på intra- og interpersonelle faktorer som f.eks. kommunikation (non-verbal kommunikation, støj i kommunikationen) individet i gruppen (flokmentalitet, konformitet flertalsmisforståelser) multitasking, selektiv opmærksomhed og identitet. En konkret teoretiker som kan anvendes er Erwing Goffman og begreberne frontstage og backstage. Kulturens betydning er også relevant I samfundsfag kunne man kigge på de politiske rammer og lovgivning om sociale medier. Hvilken betydning har medierne for demokratiet? Er de sociale medier en fordel og eller ulempe for demokratiet? Hvilken betydning har de sociale medier på nyhedsproduktionen og hvilken betydning har de sociale medier for de politiske partier. Hvilken betydning har sociale medier i.f.m. krig? Det er også meget relevant at inddrage et af vigtigste samfundsfagsbegreber, nemlig magt. Hvilken magt er de sociale medier et udtryk for. Statisk talmateriale i samfundsfag er også godt: Hvem bruger f.eks. de sociale medier. En konkret samfundsfaglig problemstilling i.f.m. de sociale medier er fake news. En konkret teoretiker som kan bruges er Hartmut Rosa og hans begreb om højhastighedssamfund."],
+                ["Omsorgssvigt og velfærdsstatens rolle", "Omsorg og velfærdsstat", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne man kigge på typer af omsorgssvigt, modstandsdygtighed (resiliens), tilknytningstyper og dobbeltsocialisering. Det er også relevant at inddrage eksperimenter om tilknytning.  I samfundsfag kunne man kigge på konkrete velfærdsmodeller og deres betydning for menneskers omsorg og socialisering. Hvilke rammer tilbyder f.eks. den universelle velfærdsstat til det enkelte individ? Politiske rammer og normering til børn og unge er også relevant. Hvilken betydning skal stat, marked og civilsamfund have i.f.m. omsorg?"],
+                ["Skabelsen af sygdomsidentitet", "Sygdomsidentitet", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne fokus være på identitetsbegrebet, narrativet (fortællingen) og marginalisering. I samfundsfag kunne man inddrage konkrete samfundsøkonomiske omkostninger ved sygdom. En konkret teoretiker som kan bruges er Nikolas Rose og hans 5 hypoteser om udviklingen af diagnosesystemet."],
+                ["Relationsarbejdet på sygehuset", "Relationsarbejde syge", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne fokus være på teori om relationer, håb, meningsfuldhed og viden om mennesker under pres: stress. I samfundsfag kunne fokus være på teori om livsverden og systemverden, velfærdsklemmer og konkurrencestat."],
+                ["Livet i folkeskolen", "Livet i folkeskolen", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale, der understreger aktualiteten. I psykologi kunne fokus være på hvordan man lærer bedst? Forskellige læringsperspektiver og det sociale element af læring. I samfundsfag kunne fokus være på folkeskolens rammer, konkurrencestaten, PISA undersøgelser og øget målstyring af skolen."],
+                ["Børn i problemer i daginstitutioner", "Børn i problemer i daginstitutioner", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale, der understreger aktualiteten. I psykologi kunne fokus være på opdragelse, dobbeltsocialisering, det diagnostiske versus det relationelle blik på børn. I samfundsfag kunne fokus være på socialpolitik, diagnosesamfundet og Nikolas Rose og hans 5 hypoteser om udviklingen af diagnosesystemet."]
+                
             ]
         },
         {
@@ -138,33 +146,6 @@
                 ["Har danske kvinder opnået ligestilling?", "Kvinder ligestilling danmark", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Det danske samfund og vilkårene for danske kvinder har ændret sig markant fra slutningen af 1800-tallet til i dag. Samtidig har kvindernes vilkår ændret sig. I 1915 fik kvinderne stemmeret til folketinget, i 1966 blev p-pillen frigivet, og i 1973 kom den fri abort. I 1960erne og 70erne valfartede kvinderne desuden ind på arbejdsmarkedet. Men er disse objektive ændringer så også ensbetydende med at kvinderne har opnået reel ligestilling i samfundet?"]
                 
 
-            ]
-        },
-        {
-            "id": "Biologi og religion",
-            "databaser": [
-                ["", "videnskab.dk"],
-                ["", "http://www.his2rie.dk/"],
-                ["", "https://historienet.dk/"],
-                ["Danmarkshistorien", "religion.dk"],
-                ["Danmarkshistorien", "emu.dk"],
-                ["Danmarkshistorien", "http://www.folkekirken.dk/"],
-                ["Danmarkshistorien", "worldreligiondatabase.org/"],
-                ["", "da.wikipedia.org"],
-                ["Videnskab.dk", "videnskab.dk"],
-                ["Aktuelnaturvidenskab.dk", "Aktuelnaturvidenskab.dk"],
-                ["DR", "dr.dk"],
-                ["Biotechacademy", "Biotechacademy.dk"],
-                ["MST", "mst.dk"],
-                ["EMU", "emu.dk"],
-                ["Etisk råd", "etiskraad.dk"],
-                ["Nanotech Academy", "http://www.nanotechacademy.dk"],
-                ["DMI", "dmi.dk"],
-                ["", "biotechacademy.dk"],
-                ["", "Sustainable.dk"]
-            ],
-            "emner": [
-                ["Etik: Abort i forbindelse med detektering af Downs", "Abort kristendom", "<div class='emne_niveau'>Niveau: Biologi og Religion C / B </div>I Danmark er andelen af børn født med kromosomtalssygdommen Trisomi 21 (Downs Syndrom) faldet på trods af stigende alder for fødende kvinder (1978-2015, Danmarks statistik). Trisomi 21 bliver ofte detekteret under den første ultralydsscanning hos en gravid kvinde. Den første ultralydsscanning ligger inden for abortgrænsen i Danmark. I forbindelse med et evt. valg om abort rejser der sig en række etiske dilemmaer: hvornår kan et foster defineres som et menneske? Hvorfor legitimerer Trisomi 21 abort? Kan det diskuteres hvorvidt abort skal være en ret eller ej? Som udgangspunkt her kristendommen og biologien forskellige perspektiver på hvad der er etisk og uetisk, bl.a. fordi de to perspektiver som fagene repræsenterer, ikke er enige om hvad liv er og hvad et menneske er."]
             ]
         }
 
