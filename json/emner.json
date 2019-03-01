@@ -94,7 +94,9 @@
             "databaser": [
                 ["", "folkeskolen.dk"],
                 ["", "ft.dk"],
+                ["Det Nationale Forskningscenter for Velfærd", "sfi.dk"],
                 ["", "videnskab.dk"],
+                ["Fagbladet Børn & Unge", "https://bupl.dk/fagbladet-boernunge/"],
                 ["Alt om psykologi", "altompsykologi.dk"],
                 ["Danmarks statistik", "dst.dk"]
             ],
