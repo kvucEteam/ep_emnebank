@@ -40,6 +40,15 @@
             ]
         },
         {
+            "id": "Biologi og Religion",
+            "databaser": [
+                ["Videnskab.dk", "videnskab.dk"]
+            ],
+            "emner": [
+                ["Etik: Abort i forbindelse med detektering af Downs", "Abort kristendom", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>I Danmark er andelen af børn født med kromosomtalssygdommen Trisomi 21 (Downs Syndrom) faldet på trods af stigende alder for fødende kvinder (1978-2015, Danmarks statistik). Trisomi 21 bliver ofte detekteret under den første ultralydsscanning hos en gravid kvinde. Den første ultralydsscanning ligger inden for abortgrænsen i Danmark. I forbindelse med et evt. valg om abort rejser der sig en række etiske dilemmaer: hvornår kan et foster defineres som et menneske? Hvorfor legitimerer Trisomi 21 abort? Kan det diskuteres hvorvidt abort skal være en ret eller ej? Som udgangspunkt her kristendommen og biologien forskellige perspektiver på hvad der er etisk og uetisk, bl.a. fordi de to perspektiver som fagene repræsenterer, ikke er enige om hvad liv er og hvad et menneske er."]
+            ]
+        },
+        {
             "id": "Historie og Samfundsfag",
             "databaser": [
                 ["His2rie", "sparknotes.com/"],
