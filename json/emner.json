@@ -1,164 +1,150 @@
 {
     "fag": [
-        {
-            "id": "Biologi og geografi",
-            "databaser": [
-                ["Videnskab.dk", "videnskab.dk"],
-                ["Aktuelnaturvidenskab.dk", "Aktuelnaturvidenskab.dk"],
-                ["DR", "dr.dk"],
-                ["Biotechacademy", "Biotechacademy.dk"],
-                ["MST", "mst.dk"],
-                ["EMU", "emu.dk"],
-                ["Etisk råd", "etiskraad.dk"],
-                ["Nanotech Academy", "http://www.nanotechacademy.dk"],
-                ["DMI", "dmi.dk"],
-                ["", "biotechacademy.dk"],
-                ["", "Sustainable.dk"]
+    {
+        "id": "Biologi og geografi",
+        "databaser": [
+            ["Videnskab.dk", "videnskab.dk"],
+            ["Aktuelnaturvidenskab.dk", "Aktuelnaturvidenskab.dk"],
+            ["DR", "dr.dk"],
+            ["Biotechacademy", "Biotechacademy.dk"],
+            ["MST", "mst.dk"],
+            ["EMU", "emu.dk"],
+            ["Etisk råd", "etiskraad.dk"],
+            ["Nanotech Academy", "http://www.nanotechacademy.dk"],
+            ["DMI", "dmi.dk"],
+            ["", "biotechacademy.dk"],
+            ["", "Sustainable.dk"]
 
-            ],
-            "emner": [
-                ["Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "<div class='emne_niveau'>Niveau: Biologi C / B og Geografi C </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"],
-                ["Tropiske koralrev", "Tropiske koraller", "<div class='emne_niveau'>Niveau: Biologi C / B og Geografi C </div>Tropiske og subtropiske lavvandskoraller er de mest truede typer koraller på verdensplan på grund af klimaforandringer. I og omkring disse koraller findes der en meget høj biodiversitet. I kraft af den faldende udbredelse af lavvandskoraller er det derfor meget interessant at fokusere på symbiotiske forhold, samt vigtighed ved bæredygtige og bevaringsværdige løsninger. Her kan du have fokus på økoturisme og udvinding af organismer til bioteknologisk forskning indenfor GMO i dag og i fremtiden. En interessant fokus kunne være på korallernes funktion i kulstofkredsløbet og betydning for klimaet. Det er også oplagt at perspektivere til et andre unikke økosystemer som fx Ikka-søjlerne i Arktis, som også er truet af klimaændringer og tab i udbredelse."],
-                ["Ultraviolet (UV-) stråling og hudkræft", "Ultraviolet stråling hudkræft", "<div class='emne_niveau'>Niveau: Biologi B og Geografi C</div>Ozonlaget er vigtigt for livet på jorden, fordi det absorberer den farlige kortbølgede ultraviolette stråling fra solen. Observationer har vist, at i perioder, hvor ozonlaget er nedbrudt, stiger den ultraviolette stråling ved jordens overflade. Det kan medføre hyppigere forekomst af mutationer i hudcellernes DNA og medvirkende til udvikling af hudkræft.  Ozonlaget i atmosfæren er blevet tyndere og tyndere på grund af menneskets forbrug af ozonlagsnedbrydende stoffer. Den mest udbredte gruppe af ozonlagsnedbrydende stoffer er CFC-gassen (freon). Et interessant fokus kunne være den arktiske befolkning da de er særligt udsatte for UV-stråling, da der ofte forekommer huller i ozonlaget der."],
-                ["Befolkningsvækst, miljøpåvirkning og bæredygtighed", "Bæredygtighed befolkning fødevarer fødevareproduktion", "<div class='emne_niveau'>Niveau: Biologi C og Geografi C</div>Det er vigtigt at tale om bæredygtighed i fremtiden på baggrund af en global befolkningsudvikling og den øget efterspørgsel på verdens naturressourcer. Vi kan forvente at en voksende middelklasse i de nuværende u-lande.  Vi kan også forvente en øget vandring fra land til by, urbanisering. Denne udvikling vil øge levestandard for en stor befolkningsgruppe som i højere grad vil have mulighed for efterspørge bl.a. animalske fødevarer. En øget levestandard vil resultere i stigende energiforbrug, som i flere tilfælde er lig med større pres på et områdets ressourcer og stigende drivhusgasudledning. Det er derfor interessant at have fokus på de ressource- og klimamæssige udfordringer vi allerede ser i dag, men også kan forvente i fremtiden. Det er interessant at kigge på ændringer i en befolkningsgruppes adfærdsmønstre og nye bæredygtige teknologier der kan bremse det stigende pres på verdens naturressourcer."],
-                ["Global opvarmning", "Global opvarmning kulstofkredsløb", "<div class='emne_niveau'>Niveau: Biologi C og Geografi C</div>Kulstofkredsløbet illustrerer udvekslingen af kulstof på Jorden, herunder dannelsen af fossile brændstoffer som olie. Menneskets indblanding i dette kredsløb sker bl.a. ved afbrænding af fossilt brændsel, hvilket leder til øget frigivelsen af kulstof i atmosfæren. Øgede mængder af kuldioxid (CO​2​) i atmosfæren medfører det fænomen man kalder drivhuseffekten, og global opvarmning til følge. Vi ser allerede konsekvenserne af global opvarmning ved is afsmeltning ved polerne, øget vandstand og et voldsommere vejr. Et interessant fokus kunne være klimatiske ændringer i store dele af Afrika som har ledt til forringelse af dyrkningsmulighederne. Disse udfordringer kan evt. løses ved hjælp af GMO-afgrøder. -Det er interessant af undersøge en række politiske tiltag og bindende aftaler hvis formål bl.a. har været at sætte grænser for industrilandenes CO​2​-udledning. Blandt disse politiske aktører finder vi FNs klimakonvention, samt EUs 2020-, 2030- og 2050-klimamål."],
-                ["Københavns Havn verdens reneste havn", "blå plan Københavns Havn", "<div class='emne_niveau'>Niveau: Biologi C / B og Geografi C</div> I København har man opnået at få den reneste havn i verden og har stor brandingværdig for turister. Havnen åbner desuden også op for bademuligheder, hvilket gør den endnu mere attraktiv for både turister og Københavnere at opholde sig i byrummet. Boligpriserne er steget i området og der bygges desuden flere og flere boliger og har betydet en øget tiltrækning af ressourcestærke tilflyttere. Tidligere har havnen været et industriområde hvor spildevand indeholdende tungmetaller er blevet udledt i og omkring havnebassinet. Jorden og sedimentet i og omkring havnen er derfor stadig forurenet med tungmetaller. Det er interessant kigge på by-udvikling og planlægning og undersøge bevæggrunde der ligger for brandingstrategier for Københavns Havn. Samtidig kan fokus være på fremtidens klima med voldsommere vejr kan resultere i at flere tungmetaller fra landjorden bliver udledt i havnebassinet, samt hvilke risici der er forbundet med bioakkumulation og biomagnifikation af tungmetaller i fødekæden."],
-                ["Naturgenopretning", "Naturgenopretning Skjern", "<div class='emne_niveau'>Niveau: Biologi C og Geografi C</div>De seneste år har der være fokus på naturgenopretning.  Den danske natur er blevet skabt siden sidste istid men er blevet påvirket af menneskelige aktiviteter så som landbrug og bebyggelse. Den menneskelige påvirkning i form af næringsstofudledning og dyrkning af monokulturer har haft store miljømæssige konsekvenser så som iltsvind og tab af biodiversitet. Et interessant fokus kunne være genopretningen af Skjern Å’s naturlige åløb. Skjern Å blev dannet under sidste istid. Det har gået fra at have et naturligt åløb siden istiden, til at blive udrette igennem en ca. 30-årig periode. Udretningen af åløb betød at landmændene bl.a. effektivt kunne dræne vand væk fra deres landarealer og ud i åløbene. Således blev landbrugsarealet øget. Skjern Å blev genetableret tilbage til det naturlige åløb i 2003 hvor det også lykkedes at redde den truet Skjern Å-laks. En interessant vinkel kunne være de gevinster et naturligt åløb har på biodiversiteten, faldende næringsstofudledningen i havet, rekreative fordele for lokalbefolkningen, samt branding strategier og turisme.<br/>Emnet kan også dreje sig om naturgenopretning af søer eller andre økosystemer. "]
+        ],
+        "emner": [
+            ["Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "<div class='emne_niveau'>Niveau: Biologi C / B og Geografi C </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand.<br />Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"],
+            ["Tropiske koralrev", "Tropiske koraller", "<div class='emne_niveau'>Niveau: Biologi C / B og Geografi C </div>Tropiske og subtropiske lavvandskoraller er de mest truede typer koraller på verdensplan på grund af klimaforandringer. I og omkring disse koraller findes der en meget høj biodiversitet. I kraft af den faldende udbredelse af lavvandskoraller er det derfor meget interessant at fokusere på symbiotiske forhold, samt vigtighed ved bæredygtige og bevaringsværdige løsninger. Her kan du have fokus på økoturisme og udvinding af organismer til bioteknologisk forskning indenfor GMO i dag og i fremtiden. En interessant fokus kunne være på korallernes funktion i kulstofkredsløbet og betydning for klimaet. Det er også oplagt at perspektivere til et andre unikke økosystemer som fx Ikka-søjlerne i Arktis, som også er truet af klimaændringer og tab i udbredelse."],
+            ["Ultraviolet (UV-) stråling og hudkræft", "Ultraviolet stråling hudkræft", "<div class='emne_niveau'>Niveau: Biologi B og Geografi C</div>Ozonlaget er vigtigt for livet på jorden, fordi det absorberer den farlige kortbølgede ultraviolette stråling fra solen. Observationer har vist, at i perioder, hvor ozonlaget er nedbrudt, stiger den ultraviolette stråling ved jordens overflade. Det kan medføre hyppigere forekomst af mutationer i hudcellernes DNA og medvirkende til udvikling af hudkræft.  Ozonlaget i atmosfæren er blevet tyndere og tyndere på grund af menneskets forbrug af ozonlagsnedbrydende stoffer. Den mest udbredte gruppe af ozonlagsnedbrydende stoffer er CFC-gassen (freon). Et interessant fokus kunne være den arktiske befolkning da de er særligt udsatte for UV-stråling, da der ofte forekommer huller i ozonlaget der."],
+            ["Befolkningsvækst, miljøpåvirkning og bæredygtighed", "Bæredygtighed befolkning fødevarer fødevareproduktion", "<div class='emne_niveau'>Niveau: Biologi C og Geografi C</div>Det er vigtigt at tale om bæredygtighed i fremtiden på baggrund af en global befolkningsudvikling og den øget efterspørgsel på verdens naturressourcer. Vi kan forvente at en voksende middelklasse i de nuværende u-lande.  Vi kan også forvente en øget vandring fra land til by, urbanisering. Denne udvikling vil øge levestandard for en stor befolkningsgruppe som i højere grad vil have mulighed for efterspørge bl.a. animalske fødevarer. En øget levestandard vil resultere i stigende energiforbrug, som i flere tilfælde er lig med større pres på et områdets ressourcer og stigende drivhusgasudledning. Det er derfor interessant at have fokus på de ressource- og klimamæssige udfordringer vi allerede ser i dag, men også kan forvente i fremtiden. Det er interessant at kigge på ændringer i en befolkningsgruppes adfærdsmønstre og nye bæredygtige teknologier der kan bremse det stigende pres på verdens naturressourcer."],
+            ["Global opvarmning", "Global opvarmning kulstofkredsløb", "<div class='emne_niveau'>Niveau: Biologi C og Geografi C</div>Kulstofkredsløbet illustrerer udvekslingen af kulstof på Jorden, herunder dannelsen af fossile brændstoffer som olie. Menneskets indblanding i dette kredsløb sker bl.a. ved afbrænding af fossilt brændsel, hvilket leder til øget frigivelsen af kulstof i atmosfæren. Øgede mængder af kuldioxid (CO​2​) i atmosfæren medfører det fænomen man kalder drivhuseffekten, og global opvarmning til følge. Vi ser allerede konsekvenserne af global opvarmning ved is afsmeltning ved polerne, øget vandstand og et voldsommere vejr. Et interessant fokus kunne være klimatiske ændringer i store dele af Afrika som har ledt til forringelse af dyrkningsmulighederne. Disse udfordringer kan evt. løses ved hjælp af GMO-afgrøder. -Det er interessant af undersøge en række politiske tiltag og bindende aftaler hvis formål bl.a. har været at sætte grænser for industrilandenes CO​2​-udledning. Blandt disse politiske aktører finder vi FNs klimakonvention, samt EUs 2020-, 2030- og 2050-klimamål."],
+            ["Københavns Havn verdens reneste havn", "blå plan Københavns Havn", "<div class='emne_niveau'>Niveau: Biologi C / B og Geografi C</div> I København har man opnået at få den reneste havn i verden og har stor brandingværdig for turister. Havnen åbner desuden også op for bademuligheder, hvilket gør den endnu mere attraktiv for både turister og Københavnere at opholde sig i byrummet. Boligpriserne er steget i området og der bygges desuden flere og flere boliger og har betydet en øget tiltrækning af ressourcestærke tilflyttere. Tidligere har havnen været et industriområde hvor spildevand indeholdende tungmetaller er blevet udledt i og omkring havnebassinet. Jorden og sedimentet i og omkring havnen er derfor stadig forurenet med tungmetaller. Det er interessant kigge på by-udvikling og planlægning og undersøge bevæggrunde der ligger for brandingstrategier for Københavns Havn. Samtidig kan fokus være på fremtidens klima med voldsommere vejr kan resultere i at flere tungmetaller fra landjorden bliver udledt i havnebassinet, samt hvilke risici der er forbundet med bioakkumulation og biomagnifikation af tungmetaller i fødekæden."],
+            ["Naturgenopretning", "Naturgenopretning Skjern", "<div class='emne_niveau'>Niveau: Biologi C og Geografi C</div>De seneste år har der være fokus på naturgenopretning.  Den danske natur er blevet skabt siden sidste istid men er blevet påvirket af menneskelige aktiviteter så som landbrug og bebyggelse. Den menneskelige påvirkning i form af næringsstofudledning og dyrkning af monokulturer har haft store miljømæssige konsekvenser så som iltsvind og tab af biodiversitet. Et interessant fokus kunne være genopretningen af Skjern Å’s naturlige åløb. Skjern Å blev dannet under sidste istid. Det har gået fra at have et naturligt åløb siden istiden, til at blive udrette igennem en ca. 30-årig periode. Udretningen af åløb betød at landmændene bl.a. effektivt kunne dræne vand væk fra deres landarealer og ud i åløbene. Således blev landbrugsarealet øget. Skjern Å blev genetableret tilbage til det naturlige åløb i 2003 hvor det også lykkedes at redde den truet Skjern Å-laks. En interessant vinkel kunne være de gevinster et naturligt åløb har på biodiversiteten, faldende næringsstofudledningen i havet, rekreative fordele for lokalbefolkningen, samt branding strategier og turisme.<br />Emnet kan også dreje sig om naturgenopretning af søer eller andre økosystemer."]
+        ]
+    },
+    {
+        "id": "Biologi og Kemi",
+        "databaser": [
+            ["Forfatterweb", "forfatterweb.dk/"],
+            ["Litteratursiden", "www.litteratursiden.dk/"],
+            ["Danmarkshistorien", "www.danmarkshistorien.dk/"],
+            ["Danmarkshistorien", "www.imdb.com/"]
+        ],
+        "emner": [
+            ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
+        ]
+    },
+    {
+        "id": "Biologi og Religion",
+        "databaser": [
+            ["Videnskab.dk", "videnskab.dk"]
+        ],
+        "emner": [
+            ["Etik: Abort i forbindelse med detektering af Downs", "Abort kristendom", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>I Danmark er andelen af børn født med kromosomtalssygdommen Trisomi 21 (Downs Syndrom) faldet på trods af stigende alder for fødende kvinder (1978-2015, Danmarks statistik). Trisomi 21 bliver ofte detekteret under den første ultralydsscanning hos en gravid kvinde. Den første ultralydsscanning ligger inden for abortgrænsen i Danmark. I forbindelse med et evt. valg om abort rejser der sig en række etiske dilemmaer: hvornår kan et foster defineres som et menneske? Hvorfor legitimerer Trisomi 21 abort? Kan det diskuteres hvorvidt abort skal være en ret eller ej? Som udgangspunkt her kristendommen og biologien forskellige perspektiver på hvad der er etisk og uetisk, bl.a. fordi de to perspektiver som fagene repræsenterer, ikke er enige om hvad liv er og hvad et menneske er."]
+        ]
+    },
+    {
+        "id": "Historie og Samfundsfag",
+        "databaser": [
+            ["His2rie", "sparknotes.com/"],
+            ["Historienet", "cliffsnotes.com/"],
+            ["videnskab", "spinditty.com/"],
+            ["Danmarkshistorien", "victorianweb.org"],
+            ["Danmarkshistorien", "bachelorandmaster.com/"]
 
-            ]
-        },
-        {
-            "id": "Biologi og Kemi",
-            "databaser": [
-                ["Forfatterweb", "forfatterweb.dk/"],
-                ["Litteratursiden", "www.litteratursiden.dk/"],
-                ["Danmarkshistorien", "www.danmarkshistorien.dk/"],
-                ["Danmarkshistorien", "www.imdb.com/"]
-            ],
-            "emner": [
-                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
-            ]
-        },
-        {
-            "id": "Biologi og Religion",
-            "databaser": [
-                ["Videnskab.dk", "videnskab.dk"]
-            ],
-            "emner": [
-                ["Etik: Abort i forbindelse med detektering af Downs", "Abort kristendom", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>I Danmark er andelen af børn født med kromosomtalssygdommen Trisomi 21 (Downs Syndrom) faldet på trods af stigende alder for fødende kvinder (1978-2015, Danmarks statistik). Trisomi 21 bliver ofte detekteret under den første ultralydsscanning hos en gravid kvinde. Den første ultralydsscanning ligger inden for abortgrænsen i Danmark. I forbindelse med et evt. valg om abort rejser der sig en række etiske dilemmaer: hvornår kan et foster defineres som et menneske? Hvorfor legitimerer Trisomi 21 abort? Kan det diskuteres hvorvidt abort skal være en ret eller ej? Som udgangspunkt her kristendommen og biologien forskellige perspektiver på hvad der er etisk og uetisk, bl.a. fordi de to perspektiver som fagene repræsenterer, ikke er enige om hvad liv er og hvad et menneske er."]
-            ]
-        },
-        {
-            "id": "Historie og Samfundsfag",
-            "databaser": [
-                ["His2rie", "sparknotes.com/"],
-                ["Historienet", "cliffsnotes.com/"],
-                ["videnskab", "spinditty.com/"],
-                ["Danmarkshistorien", "victorianweb.org"],
-                ["Danmarkshistorien", "bachelorandmaster.com/"],
-                ["Danmarkshistorien", "britannica.com"],
-                ["Danmarkshistorien", "bardweb.net"],
-                ["Danmarkshistorien", "bbc.co.uk"],
-                ["Danmarkshistorien", "theguardian.com"],
-                ["Danmarkshistorien", "bl.uk"],
-                ["Danmarkshistorien", "poetryfoundation.org"],
-                ["Danmarkshistorien", "writersinspire.org"],
-                ["Danmarkshistorien", "biography.com"],
-                ["Danmarkshistorien", "imdb.com"]
+        ],
+        "emner": [
+            ["Flygtninge og migration", "Migration Flygtningekrisen FN Flygtningekonvention menneskerettighedskonvention", "Man kan finde kilder i historie til at beskrive indvandring tilbage i tiden. For eksempel 1960’erne fra Tyrkiet og andre lande, eller gerne endnu længere tilbage; hollænderne på Amager, polakker der arbejde på roemarkerne fra slutningen af 1800-tallet. Jøderne tidligere eller andre. Se på det via historiske kilder: hvordan klarede disse grupper sig? Analysere beretninger og statistikker. Bruge de samfundsfaglige begreber om integration, segregation eller assimilation. Hvilken strategi valgte de? Blev de i Danmark? Hvornår blev de anset for at være danskere? <br/><br/>Og i samfundsfag selvfølgelig bruge begreberne på at se på den aktuelle indvandring og diskutere flygtningekrisen i 2015. Hvad er forskelligt i dag i forhold til tidligere, kan vi bruge vores erfaringer i dag?<br/><br/>Multikulturelt samfund? Hvordan præger indvandrerdebatten dansk politik i dag og har den gjort det tidligere? Hvilke lovgivningsmæssige tiltag har staten lavet for at begrænse indvandringen/tiltrække indvandring?<br/><br/>Fandtes der parallelsamfund tidligere i historien? Findes de stadig i dag?<br/><br/>Slægtsforskning er en anden vinkel, nedstammer jeg selv fra immigranter?"]
+        ]
 
-            ],
-            "emner": [
-                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
-            ]
+    },
+    {
 
-        },
-        {
-
-            "id": "Historie og Religion",
-            "databaser": [
-                ["", "videnskab.dk"],
-                ["", "http://www.his2rie.dk/"],
-                ["", "https://historienet.dk/"],
-                ["Danmarkshistorien", "religion.dk"],
-                ["Danmarkshistorien", "emu.dk"],
-                ["Danmarkshistorien", "http://www.folkekirken.dk/"],
-                ["Danmarkshistorien", "worldreligiondatabase.org/"],
-                ["", "da.wikipedia.org"]
-            ],
-            "emner": [
-                ["Sagen mod Galilei: katolsk teologi og verdenssyn i renæssancen", "Galilei renæssance", "Man siger at der i renæssancen var en naturvidenskabelig revolution. Det betød først og fremmest at kirkens monopol på viden blandt meget andet blev udfordret af en ny intellektuel elites opfattelse af Jorden som en del af et solsystem. Galileo Galilei præsenterede sig som en blandt flere i tiden, der offentligt fik bragt sig i intellektuel uføre med kirken, ved at udgive bøger og holde foredrag, i Siena og Firenze, om nye perspektiver på astronomien, som ikke indbefattede hverken Gud eller Bibelen."],
-                ["Zionismen og skabelsen af staten Israel 1896-1948 ", "zionisme israel 1948", "Zionismen er betegnelsen for en jødisk nationalistisk bevægelse fra slutningen af 1890’erne, der hævder en historisk ret til det palæstinensiske område. Den 14. Maj 1948 blev staten Israel proklameret i Tel Aviv. Saten var officielt sekulær, men byggede grundlæggende på en zionistisk ide. Proklamationen udløste samtidig uafhængighedskrigen mellem Israel og Jordan, Egypten, Syrien, Libanon og Irak. Israel fik tilkæmpet sig store landområder, foruden det de havde fået tildelt i 1948."],
-                ["Luthers to-regimentelære og statskirken i Danmark 1536 og frem", "reformationen i danmark luther ", "Christian den 3.’s oprettelse af den lutherske statskirke i Danmark i 1536-37 brød med århundreders katolsk dominans i Danmark. Luther havde i sin to-regimentelære givet al magt på Jorden til staten – adskilt fra denne var den åndelige magt – Guds magt. Kirken, i protestantisk forstand, havde ikke længere nogen officiel magt på Jorden. Staten, eller kongen bestemte også over den fysiske kirke. Kirkens magt bestod med Luther i en uformel magt i form af bønner, ord og prædikener."],
-                ["Maren splid sagen - Trolddomsforfølgelse i 1500- og 1600-tallets Vestjylland", "Maren splid", "Specielt under kong Christian den 4.’s regering steg antallet af hekseafbrændinger i Danmark. Der blev indført en streng lovgivning der forbød al virke, der ikke kunne rummes af kirkens og kongens protestantiske forordninger. Sagen om den påståede heks Maren Splid er sjældent godt belyst og viser hvordan magteliten i Danmark dels anklagede, førte retssag og eksekverede dommen for trolddom mod en kvinde i Ribe den 10. november 1641."],
-                ["Jihad og Islamisk stats ambitioner om at genoprette kalifatet ", "islamisk stat islamisme", "Islamisk stat voksede ud af sunnimuslimske oprørsgrupper i forbindelse med invasionen af Irak i 2003. Organisationen repræsenterer en særlig form for militant fundamentalistisk islamisme. Deres fortolkning af begrebet Jihad som en forsvarskrig mod amerikansk imperialisme og vestlig sekularisme er blevet særligt udtalt i forbindelse med det endelige mål op genoprettelsen af kalifatet i Mellemøsten. Terrorgrupper der svor Islamisk stat troskab fik, ved siden af mere konventionelle militære erobringer, i særligt Irak og Syrien, en stor rolle for organisationen."],
-                ["Gandhis brug af Bhagvada Gita og hindusime i oprøret mod kolonimagten Storbritannien ", "frihedskamp gandhi", "Da Mahatma Gandhi rejste tilbage til Indien i 1919 efter at have kæmpet for indernes rettigheder i Sydafrika, startede han en ulydighedskampagne og boykot mod kolonimagten England. Målet for Gandhi og hans bevægelse var selvstyre, hans midler var en ikke voldelig passiv modstand. Gandhi var hinduist og politiker. Hans filosofi var stærkt inspireret af det indiske hovedværk Bhagavad Gita, som er at finde i den store tekstsamling Mahabharata."],
-                ["Religiøse og magtpolitiske årsager til korstoget 1095", "Korstog 1095", "De langvarige korstog i det 11. og 13. århundrede blev indledt med Pave Urban 2.’s korstogstale i Clermonte. Her bød han Vesteuropas fyrstehuse til krig mod den islamiske ekspansion i Mellemøsten og ikke mindst Jerusalem. Korstogene blev legitimeret teologisk, men frem for alt en magtpolitisk handling, der skulle sikre at de islamiske erobrere blev stoppe og slået tilbage."]
+        "id": "Historie og Religion",
+        "databaser": [
+            ["", "videnskab.dk"],
+            ["", "http://www.his2rie.dk/"],
+            ["", "https://historienet.dk/"],
+            ["Danmarkshistorien", "religion.dk"],
+            ["Danmarkshistorien", "emu.dk"],
+            ["Danmarkshistorien", "http://www.folkekirken.dk/"],
+            ["Danmarkshistorien", "worldreligiondatabase.org/"],
+            ["", "da.wikipedia.org"]
+        ],
+        "emner": [
+            ["Sagen mod Galilei: katolsk teologi og verdenssyn i renæssancen", "Galilei renæssance", "Man siger at der i renæssancen var en naturvidenskabelig revolution. Det betød først og fremmest at kirkens monopol på viden blandt meget andet blev udfordret af en ny intellektuel elites opfattelse af Jorden som en del af et solsystem. Galileo Galilei præsenterede sig som en blandt flere i tiden, der offentligt fik bragt sig i intellektuel uføre med kirken, ved at udgive bøger og holde foredrag, i Siena og Firenze, om nye perspektiver på astronomien, som ikke indbefattede hverken Gud eller Bibelen."],
+            ["Zionismen og skabelsen af staten Israel 1896-1948 ", "zionisme israel 1948", "Zionismen er betegnelsen for en jødisk nationalistisk bevægelse fra slutningen af 1890’erne, der hævder en historisk ret til det palæstinensiske område. Den 14. Maj 1948 blev staten Israel proklameret i Tel Aviv. Saten var officielt sekulær, men byggede grundlæggende på en zionistisk ide. Proklamationen udløste samtidig uafhængighedskrigen mellem Israel og Jordan, Egypten, Syrien, Libanon og Irak. Israel fik tilkæmpet sig store landområder, foruden det de havde fået tildelt i 1948."],
+            ["Luthers to-regimentelære og statskirken i Danmark 1536 og frem", "reformationen i danmark luther ", "Christian den 3.’s oprettelse af den lutherske statskirke i Danmark i 1536-37 brød med århundreders katolsk dominans i Danmark. Luther havde i sin to-regimentelære givet al magt på Jorden til staten – adskilt fra denne var den åndelige magt – Guds magt. Kirken, i protestantisk forstand, havde ikke længere nogen officiel magt på Jorden. Staten, eller kongen bestemte også over den fysiske kirke. Kirkens magt bestod med Luther i en uformel magt i form af bønner, ord og prædikener."],
+            ["Maren splid sagen - Trolddomsforfølgelse i 1500- og 1600-tallets Vestjylland", "Maren splid", "Specielt under kong Christian den 4.’s regering steg antallet af hekseafbrændinger i Danmark. Der blev indført en streng lovgivning der forbød al virke, der ikke kunne rummes af kirkens og kongens protestantiske forordninger. Sagen om den påståede heks Maren Splid er sjældent godt belyst og viser hvordan magteliten i Danmark dels anklagede, førte retssag og eksekverede dommen for trolddom mod en kvinde i Ribe den 10. november 1641."],
+            ["Jihad og Islamisk stats ambitioner om at genoprette kalifatet ", "islamisk stat islamisme", "Islamisk stat voksede ud af sunnimuslimske oprørsgrupper i forbindelse med invasionen af Irak i 2003. Organisationen repræsenterer en særlig form for militant fundamentalistisk islamisme. Deres fortolkning af begrebet Jihad som en forsvarskrig mod amerikansk imperialisme og vestlig sekularisme er blevet særligt udtalt i forbindelse med det endelige mål op genoprettelsen af kalifatet i Mellemøsten. Terrorgrupper der svor Islamisk stat troskab fik, ved siden af mere konventionelle militære erobringer, i særligt Irak og Syrien, en stor rolle for organisationen."],
+            ["Gandhis brug af Bhagvada Gita og hindusime i oprøret mod kolonimagten Storbritannien ", "frihedskamp gandhi", "Da Mahatma Gandhi rejste tilbage til Indien i 1919 efter at have kæmpet for indernes rettigheder i Sydafrika, startede han en ulydighedskampagne og boykot mod kolonimagten England. Målet for Gandhi og hans bevægelse var selvstyre, hans midler var en ikke voldelig passiv modstand. Gandhi var hinduist og politiker. Hans filosofi var stærkt inspireret af det indiske hovedværk Bhagavad Gita, som er at finde i den store tekstsamling Mahabharata."],
+            ["Religiøse og magtpolitiske årsager til korstoget 1095", "Korstog 1095", "De langvarige korstog i det 11. og 13. århundrede blev indledt med Pave Urban 2.’s korstogstale i Clermonte. Her bød han Vesteuropas fyrstehuse til krig mod den islamiske ekspansion i Mellemøsten og ikke mindst Jerusalem. Korstogene blev legitimeret teologisk, men frem for alt en magtpolitisk handling, der skulle sikre at de islamiske erobrere blev stoppe og slået tilbage."]
 
 
 
-            ]
-        },
-        {
-            "id": "Samfundsfag og Psykologi",
-            "databaser": [
-                ["", "folkeskolen.dk"],
-                ["", "ft.dk"],
-                ["Det Nationale Forskningscenter for Velfærd", "sfi.dk"],
-                ["", "videnskab.dk"],
-                ["Fagbladet Børn & Unge", "https://bupl.dk/fagbladet-boernunge/"],
-                ["Alt om psykologi", "altompsykologi.dk"],
-                ["Danmarks statistik", "dst.dk"]
-            ],
-            "emner": [
-                ["Bandekriminalitet i Danmark", "bandekriminalitet og psykologi", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten.  I psykologi kunne man kigge på individet i gruppen (socialpsykologi), omsorg, tilknytning (psykoanalyse), valg (eksistenspsykologi), omgivelsernes betydning (adfærdspsykologi) og tankemønstre (kognitiv psykologi). I samfundsfag kunne man kigge på lovgivning om kriminalitet, domstole, typer af kriminalitet, ideologier, ulighed og politiske holdninger til straf og kriminalitet (værdipolitik). Det er også godt i samfundsfag at have noget statistisk talmateriale: Hvem sidder i fængsler? Hvilke typer af forbryder er de dømt for? Er det flest unge? Er det mange uden uddannelse? Er det mange med anden etnisk baggrund end dansk?"],
-                ["Sociale medier og ungdomskulturer", "Sociale medier og unge", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne man gå tæt på intra- og interpersonelle faktorer som f.eks. kommunikation (non-verbal kommunikation, støj i kommunikationen) individet i gruppen (flokmentalitet, konformitet flertalsmisforståelser) multitasking, selektiv opmærksomhed og identitet. En konkret teoretiker som kan anvendes er Erwing Goffman og begreberne frontstage og backstage. Kulturens betydning er også relevant I samfundsfag kunne man kigge på de politiske rammer og lovgivning om sociale medier. Hvilken betydning har medierne for demokratiet? Er de sociale medier en fordel og eller ulempe for demokratiet? Hvilken betydning har de sociale medier på nyhedsproduktionen og hvilken betydning har de sociale medier for de politiske partier. Hvilken betydning har sociale medier i.f.m. krig? Det er også meget relevant at inddrage et af vigtigste samfundsfagsbegreber, nemlig magt. Hvilken magt er de sociale medier et udtryk for. Statisk talmateriale i samfundsfag er også godt: Hvem bruger f.eks. de sociale medier. En konkret samfundsfaglig problemstilling i.f.m. de sociale medier er fake news. En konkret teoretiker som kan bruges er Hartmut Rosa og hans begreb om højhastighedssamfund."],
-                ["Omsorgssvigt og velfærdsstatens rolle", "Omsorg og velfærdsstat", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne man kigge på typer af omsorgssvigt, modstandsdygtighed (resiliens), tilknytningstyper og dobbeltsocialisering. Det er også relevant at inddrage eksperimenter om tilknytning.  I samfundsfag kunne man kigge på konkrete velfærdsmodeller og deres betydning for menneskers omsorg og socialisering. Hvilke rammer tilbyder f.eks. den universelle velfærdsstat til det enkelte individ? Politiske rammer og normering til børn og unge er også relevant. Hvilken betydning skal stat, marked og civilsamfund have i.f.m. omsorg?"],
-                ["Skabelsen af sygdomsidentitet", "Sygdomsidentitet", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne fokus være på identitetsbegrebet, narrativet (fortællingen) og marginalisering. I samfundsfag kunne man inddrage konkrete samfundsøkonomiske omkostninger ved sygdom. En konkret teoretiker som kan bruges er Nikolas Rose og hans 5 hypoteser om udviklingen af diagnosesystemet."],
-                ["Relationsarbejdet på sygehuset", "Relationsarbejde syge", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne fokus være på teori om relationer, håb, meningsfuldhed og viden om mennesker under pres: stress. I samfundsfag kunne fokus være på teori om livsverden og systemverden, velfærdsklemmer og konkurrencestat."],
-                ["Livet i folkeskolen", "Livet i folkeskolen", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale, der understreger aktualiteten. I psykologi kunne fokus være på hvordan man lærer bedst? Forskellige læringsperspektiver og det sociale element af læring. I samfundsfag kunne fokus være på folkeskolens rammer, konkurrencestaten, PISA undersøgelser og øget målstyring af skolen."],
-                ["Børn i problemer i daginstitutioner", "Børn i problemer i daginstitutioner", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale, der understreger aktualiteten. I psykologi kunne fokus være på opdragelse, dobbeltsocialisering, det diagnostiske versus det relationelle blik på børn. I samfundsfag kunne fokus være på socialpolitik, diagnosesamfundet og Nikolas Rose og hans 5 hypoteser om udviklingen af diagnosesystemet."]
-                
-            ]
-        },
-        {
-            "id": "Samfundsfag og Engelsk",
-            "databaser": [
-                ["", "videnskab.dk"],
-                ["", "ing.dk"],
-                ["", "da.wikipedia.org"],
-                ["", "kemienidinhverdag.dk"]
-            ],
-            "emner": [
-                ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
-            ]
-        },
-        {
-            "id": "Samfundsfag og Dansk",
-            "databaser": [
-                ["Kristeligt dagblad", "https://www.kristeligt-dagblad.dk/"],
-                ["Danmarkshistorien", "jp.dk"],
-                ["Danmarkshistorien", "blogit.itu.dk"],
-                ["Danmarkshistorien", "dst.dk"],
-                ["Danmarkshistorien", "dr.dk"],
-                ["Danmarkshistorien", "videnskab.dk"],
-                ["Danmarkshistorien", "altinget.dk"],
-                ["Danmarkshistorien", "socialdemokratiet.dk"],
-                ["Danmarkshistorien", "pure.sfi.dk"],
-                ["Danmarkshistorien", "kvinfo.dk"],
-                ["Danmarkshistorien", "danmarkshistorien.dk"],
-                ["Danmarkshistorien", "dansketaler.dk"],
-                ["Danmarkshistorien", "information.dk"]
-            ],
-            "emner": [
-                ["Demokrati og politisk kommunikation i sociale medier", "sociale og medier politik kommunikation", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Gennem de seneste 10 år er anvendelsen af sociale medier i den politiske kommunikation voldsomt forøget. For det første anvender politikerne sociale medier som f.eks. facebook og twitter til at kommunikere deres politiske budskaber. For det andet søger stadig flere borgere viden om politik på de sociale medier. Demokrati er karakteriseret ved at borgerne på et oplyst grundlag træffer valg mellem forskellige partier. Men kan man stole på den information, man får på de sociale medier? Og hvis den information, der ligger på de sociale medier ikke er troværdig, hvilke konsekvenser har det så for demokratiet?"],
-                ["Kvinder fra ikke-vestlige lande i Danmark", "Kvinder fra ikke-vestlige lande i Danmark", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Ser man på statistikkerne, kan man aflæse, at for nogle indvandrergrupper fra ikke-vestlige lande former livet sig markant anderledes end for deres danske medsøstre. For eksempel var 74% af kvinder med dansk oprindelse mellem 16 og 64 år i beskæftigelse i 2016, mens det kun gjaldt for 46% af kvinderne fra ikke-vestlige lande. Er der andre parametre, hvor kvinder fra ikke-vestlige lande adskiller sig fra danske kvinder? Hvad er årsagerne? Er der forskelle mellem de forskellige indvandrergrupper? Er der forandringer på vej? <br/>Du skal være opmærksom på, at når du anvender skønlitterært materiale i dansk, kan dit skønlitterære materiale ikke anvendes som empiri for samfundsfag. Dit skønlitterære materiale kan anvendes perspektiverende i forhold til din samfundsfaglige undersøgelse. Desuden kan dit skønlitterære materiale anvendes til en refleksion over, hvad forskellige materialetyper kan bidrage med i din undersøgelse."],
-                ["Den socialdemokratiske velfærdsmodel", "velfærd socialdemokratiet", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Den socialdemokratiske velfærdsmodel har op gennem det tyvende århundrede i høj grad været toneangivende for indretningen af det danske samfund. Hvordan betragter hovedarkitekterne bag den socialdemokratiske velfærdsmodel, Socialdemokratiet, i dag velfærdsstaten? Og hvilke udfordringer står den socialdemokratiske velfærdsmodel overfor?"],
-                ["Sammenhængen mellem litteraturen og det omgivende samfund", "Litteratur samfund", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Samfundet har ændret sig fra det traditionelle samfund før industrialiseringen til det sen-moderne samfund i dag. Forskellige sociologer, f.eks. Anthony Giddens og Ulrich Beck, har beskæftiget sig med disse ændringer. Samtidig har litteraturen forandret sig fra slutningen af 1800-tallet til i dag. Er der en sammenhæng mellem det samfund, der eksisterer og den litteratur, der skrives? "],
-                ["Har danske kvinder opnået ligestilling?", "Kvinder ligestilling danmark", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Det danske samfund og vilkårene for danske kvinder har ændret sig markant fra slutningen af 1800-tallet til i dag. Samtidig har kvindernes vilkår ændret sig. I 1915 fik kvinderne stemmeret til folketinget, i 1966 blev p-pillen frigivet, og i 1973 kom den fri abort. I 1960erne og 70erne valfartede kvinderne desuden ind på arbejdsmarkedet. Men er disse objektive ændringer så også ensbetydende med at kvinderne har opnået reel ligestilling i samfundet?"]
-                
+        ]
+    },
+    {
+        "id": "Samfundsfag og Psykologi",
+        "databaser": [
+            ["", "folkeskolen.dk"],
+            ["", "ft.dk"],
+            ["Det Nationale Forskningscenter for Velfærd", "sfi.dk"],
+            ["", "videnskab.dk"],
+            ["Fagbladet Børn & Unge", "https://bupl.dk/fagbladet-boernunge/"],
+            ["Alt om psykologi", "altompsykologi.dk"],
+            ["Danmarks statistik", "dst.dk"]
+        ],
+        "emner": [
+            ["Bandekriminalitet i Danmark", "bandekriminalitet og psykologi", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten.  I psykologi kunne man kigge på individet i gruppen (socialpsykologi), omsorg, tilknytning (psykoanalyse), valg (eksistenspsykologi), omgivelsernes betydning (adfærdspsykologi) og tankemønstre (kognitiv psykologi). I samfundsfag kunne man kigge på lovgivning om kriminalitet, domstole, typer af kriminalitet, ideologier, ulighed og politiske holdninger til straf og kriminalitet (værdipolitik). Det er også godt i samfundsfag at have noget statistisk talmateriale: Hvem sidder i fængsler? Hvilke typer af forbryder er de dømt for? Er det flest unge? Er det mange uden uddannelse? Er det mange med anden etnisk baggrund end dansk?"],
+            ["Sociale medier og ungdomskulturer", "Sociale medier og unge", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne man gå tæt på intra- og interpersonelle faktorer som f.eks. kommunikation (non-verbal kommunikation, støj i kommunikationen) individet i gruppen (flokmentalitet, konformitet flertalsmisforståelser) multitasking, selektiv opmærksomhed og identitet. En konkret teoretiker som kan anvendes er Erwing Goffman og begreberne frontstage og backstage. Kulturens betydning er også relevant I samfundsfag kunne man kigge på de politiske rammer og lovgivning om sociale medier. Hvilken betydning har medierne for demokratiet? Er de sociale medier en fordel og eller ulempe for demokratiet? Hvilken betydning har de sociale medier på nyhedsproduktionen og hvilken betydning har de sociale medier for de politiske partier. Hvilken betydning har sociale medier i.f.m. krig? Det er også meget relevant at inddrage et af vigtigste samfundsfagsbegreber, nemlig magt. Hvilken magt er de sociale medier et udtryk for. Statisk talmateriale i samfundsfag er også godt: Hvem bruger f.eks. de sociale medier. En konkret samfundsfaglig problemstilling i.f.m. de sociale medier er fake news. En konkret teoretiker som kan bruges er Hartmut Rosa og hans begreb om højhastighedssamfund."],
+            ["Omsorgssvigt og velfærdsstatens rolle", "Omsorg og velfærdsstat", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne man kigge på typer af omsorgssvigt, modstandsdygtighed (resiliens), tilknytningstyper og dobbeltsocialisering. Det er også relevant at inddrage eksperimenter om tilknytning.  I samfundsfag kunne man kigge på konkrete velfærdsmodeller og deres betydning for menneskers omsorg og socialisering. Hvilke rammer tilbyder f.eks. den universelle velfærdsstat til det enkelte individ? Politiske rammer og normering til børn og unge er også relevant. Hvilken betydning skal stat, marked og civilsamfund have i.f.m. omsorg?"],
+            ["Skabelsen af sygdomsidentitet", "Sygdomsidentitet", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne fokus være på identitetsbegrebet, narrativet (fortællingen) og marginalisering. I samfundsfag kunne man inddrage konkrete samfundsøkonomiske omkostninger ved sygdom. En konkret teoretiker som kan bruges er Nikolas Rose og hans 5 hypoteser om udviklingen af diagnosesystemet."],
+            ["Relationsarbejdet på sygehuset", "Relationsarbejde syge", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale der understreger aktualiteten. I psykologi kunne fokus være på teori om relationer, håb, meningsfuldhed og viden om mennesker under pres: stress. I samfundsfag kunne fokus være på teori om livsverden og systemverden, velfærdsklemmer og konkurrencestat."],
+            ["Livet i folkeskolen", "Livet i folkeskolen", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale, der understreger aktualiteten. I psykologi kunne fokus være på hvordan man lærer bedst? Forskellige læringsperspektiver og det sociale element af læring. I samfundsfag kunne fokus være på folkeskolens rammer, konkurrencestaten, PISA undersøgelser og øget målstyring af skolen."],
+            ["Børn i problemer i daginstitutioner", "Børn i problemer i daginstitutioner", "I psykologien går vi tæt på det levede liv mens vi i samfundsfag kigger på rammerne for det levede liv. Generelt er det godt i begge fag at bruge figurer og modeller og statistisk materiale, der understreger aktualiteten. I psykologi kunne fokus være på opdragelse, dobbeltsocialisering, det diagnostiske versus det relationelle blik på børn. I samfundsfag kunne fokus være på socialpolitik, diagnosesamfundet og Nikolas Rose og hans 5 hypoteser om udviklingen af diagnosesystemet."]
 
-            ]
-        }
-
-    ]
+        ]
+    },
+    {
+        "id": "Samfundsfag og Engelsk",
+        "databaser": [
+            ["", "videnskab.dk"],
+            ["", "ing.dk"],
+            ["", "da.wikipedia.org"],
+            ["", "kemienidinhverdag.dk"]
+        ],
+        "emner": [
+            ["TESTINDHOLD: Pesticider - hormonforstyrrende stoffer i grundvandet", "Pesticider hormonforstyrrende stoffer", "TESTINDHOLD: <div class='emne_niveau'>Niveau: Biologi C el. B-niveau, Geografi C-niveau </div>Danmark har i modsætning til store dele af resten af verden en utrolig naturressource i form af vores grundvand som drikkevandsressource. Ifølge tal fra Naturstyrelsen er der de seneste 20 år dog blevet lukket et betydeligt antal drikkevandsboringer rundt om i Danmark som følge fladeforurening fra landbrugets udledning af sprøjtegifte. Pesticider er en sprøjtegift, som bliver brugt i landbruget til at beskytte planter mod insekter og ukrudt. Pesticiderne indeholder stoffer som har hormon-lignede. De hormonlignende stoffer kan forstyrre den naturlige hormonbalance, især hos drengefostre eller i voksenalderen. Dette ses muligvis i form af nedsat sædkvalitet eller skader på kønsorganerne. En interessant vinkel kunne være at inddrage nuværende og fremtidig miljølovgivning, samt miljøteknologi i Danmark som kan forbygge pesticidforurening i vores grundvand. <br/> Emnet kan i stedet omhandle hormonforstyrrende stoffer fra fx plastik (ftalater) eller brommerede flammehæmmere (PCB)"]
+        ]
+    },
+    {
+        "id": "Samfundsfag og Dansk",
+        "databaser": [
+            ["Kristeligt dagblad", "https://www.kristeligt-dagblad.dk/"],
+            ["Danmarkshistorien", "jp.dk"],
+            ["Danmarkshistorien", "blogit.itu.dk"],
+            ["Danmarkshistorien", "dst.dk"],
+            ["Danmarkshistorien", "dr.dk"],
+            ["Danmarkshistorien", "videnskab.dk"],
+            ["Danmarkshistorien", "altinget.dk"],
+            ["Danmarkshistorien", "socialdemokratiet.dk"],
+            ["Danmarkshistorien", "pure.sfi.dk"],
+            ["Danmarkshistorien", "kvinfo.dk"],
+            ["Danmarkshistorien", "danmarkshistorien.dk"],
+            ["Danmarkshistorien", "dansketaler.dk"],
+            ["Danmarkshistorien", "information.dk"]
+        ],
+        "emner": [
+            ["Demokrati og politisk kommunikation i sociale medier", "sociale og medier politik kommunikation", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Gennem de seneste 10 år er anvendelsen af sociale medier i den politiske kommunikation voldsomt forøget. For det første anvender politikerne sociale medier som f.eks. facebook og twitter til at kommunikere deres politiske budskaber. For det andet søger stadig flere borgere viden om politik på de sociale medier. Demokrati er karakteriseret ved at borgerne på et oplyst grundlag træffer valg mellem forskellige partier. Men kan man stole på den information, man får på de sociale medier? Og hvis den information, der ligger på de sociale medier ikke er troværdig, hvilke konsekvenser har det så for demokratiet?"],
+            ["Kvinder fra ikke-vestlige lande i Danmark", "Kvinder fra ikke-vestlige lande i Danmark", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Ser man på statistikkerne, kan man aflæse, at for nogle indvandrergrupper fra ikke-vestlige lande former livet sig markant anderledes end for deres danske medsøstre. For eksempel var 74% af kvinder med dansk oprindelse mellem 16 og 64 år i beskæftigelse i 2016, mens det kun gjaldt for 46% af kvinderne fra ikke-vestlige lande. Er der andre parametre, hvor kvinder fra ikke-vestlige lande adskiller sig fra danske kvinder? Hvad er årsagerne? Er der forskelle mellem de forskellige indvandrergrupper? Er der forandringer på vej? <br/>Du skal være opmærksom på, at når du anvender skønlitterært materiale i dansk, kan dit skønlitterære materiale ikke anvendes som empiri for samfundsfag. Dit skønlitterære materiale kan anvendes perspektiverende i forhold til din samfundsfaglige undersøgelse. Desuden kan dit skønlitterære materiale anvendes til en refleksion over, hvad forskellige materialetyper kan bidrage med i din undersøgelse."],
+            ["Den socialdemokratiske velfærdsmodel", "velfærd socialdemokratiet", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Den socialdemokratiske velfærdsmodel har op gennem det tyvende århundrede i høj grad været toneangivende for indretningen af det danske samfund. Hvordan betragter hovedarkitekterne bag den socialdemokratiske velfærdsmodel, Socialdemokratiet, i dag velfærdsstaten? Og hvilke udfordringer står den socialdemokratiske velfærdsmodel overfor?"],
+            ["Sammenhængen mellem litteraturen og det omgivende samfund", "Litteratur samfund", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Samfundet har ændret sig fra det traditionelle samfund før industrialiseringen til det sen-moderne samfund i dag. Forskellige sociologer, f.eks. Anthony Giddens og Ulrich Beck, har beskæftiget sig med disse ændringer. Samtidig har litteraturen forandret sig fra slutningen af 1800-tallet til i dag. Er der en sammenhæng mellem det samfund, der eksisterer og den litteratur, der skrives? "],
+            ["Har danske kvinder opnået ligestilling?", "Kvinder ligestilling danmark", "<div class='emne_niveau'>Niveau: Dansk A og Samfundsfag C / B </div>Det danske samfund og vilkårene for danske kvinder har ændret sig markant fra slutningen af 1800-tallet til i dag. Samtidig har kvindernes vilkår ændret sig. I 1915 fik kvinderne stemmeret til folketinget, i 1966 blev p-pillen frigivet, og i 1973 kom den fri abort. I 1960erne og 70erne valfartede kvinderne desuden ind på arbejdsmarkedet. Men er disse objektive ændringer så også ensbetydende med at kvinderne har opnået reel ligestilling i samfundet?"]
+        ]
+    }]
 }
