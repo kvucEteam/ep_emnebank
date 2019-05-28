@@ -1,7 +1,7 @@
 var valgt_fag;
 var valgt_emne;
 var underemne;
-var sso_emne;
+var ep_emne;
 
 var h3_top_position;
 
@@ -12,7 +12,7 @@ $(document).ready(function() {
     init();
     $(".btn-fag").click(clicked_fag); //
     $('#instruction').html(instruction("Få inspiration til et godt EP-emne ved at vælge en af de populære fagkombinationer og se emneforslag for hver kombination."));
-    $('#explanation').html(explanation("Start med at vælge en fagkombination og få inspiration til emner til din SSO. Du kan søge på både bibliotek.dk og udvalgte databaser, når du har indsnævret dit emnevalg."));
+    $('#explanation').html(explanation("Start med at vælge en fagkombination og få inspiration til emner til dit Eksamensprojekt. Du kan søge på både bibliotek.dk og udvalgte databaser, når du har indsnævret dit emnevalg."));
     $(".emne_header").hide();
 });
 
